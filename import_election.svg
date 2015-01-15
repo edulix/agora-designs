@@ -37,7 +37,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
      inkscape:cx="421.83689"
-     inkscape:cy="735.82784"
+     inkscape:cy="785.32532"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -56,7 +56,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -493,8 +493,8 @@
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:none"
        id="rect5187"
-       width="206.96954"
-       height="52.387966"
+       width="210"
+       height="56.428566"
        x="277.85715"
        y="149.07646" />
     <text
@@ -903,7 +903,7 @@
          x="120.57143"
          y="100.93361"
          style="font-size:13px;fill:#ffffff"
-         id="tspan6455">Import from tsv</tspan></text>
+         id="tspan6455">Import new election</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text6451"
@@ -922,65 +922,34 @@
        width="208.09143"
        height="48.487324"
        x="278.80209"
-       y="260.90512" />
+       y="210.90512" />
     <text
        xml:space="preserve"
        style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="312.57141"
-       y="288.93359"
+       y="238.93361"
        id="text6644"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan6646"
          x="312.57141"
-         y="288.93359"
+         y="238.93361"
          style="font-size:13px;fill:#ffffff">End voting period now</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 464.67017,278.01679 c 3.37783,0.50241 5.15945,-3.31017 8.08122,-4.04061 3.33133,-0.83283 6.79979,-1.07695 10.10153,-2.0203 1.4479,-0.41369 2.56819,-1.70479 4.04061,-2.02031 3.30885,-0.70904 6.75156,-0.53159 10.10152,-1.01015 1.37437,-0.19634 2.69374,-0.67344 4.04061,-1.01015 6.06092,-0.33672 12.14584,-0.37469 18.18275,-1.01016 43.29157,-4.557 -4.86074,-2.14782 45.45686,-5.05076 42.47061,-2.45023 12.22468,0.77075 55.55839,-3.03046 9.77937,-0.85784 19.51257,-2.20148 29.29443,-3.03045 10.08778,-0.8549 20.21419,-1.19661 30.30457,-2.02031 5.19677,-0.42423 45.63644,-4.94106 46.46702,-5.05076 8.78139,-1.15981 17.49186,-2.81252 26.26397,-4.04061 8.06545,-1.12917 16.21998,-1.63504 24.24366,-3.03046 11.01432,3.70681 18.74088,-5.2358 28.28427,-7.07107 6.68716,-1.28599 13.55552,-1.55323 20.20305,-3.03046 6.33737,-2.71601 5.67134,-2.87482 11.11168,-4.04061 31.85029,-6.37006 -1.85975,1.29335 14.14213,-4.04061 0.63888,-0.21296 1.36698,0.16334 2.02031,0 4.87797,-1.21949 -0.0501,-0.48004 3.03046,-2.0203 0.60233,-0.30117 1.54411,0.47619 2.0203,0 0.2381,-0.2381 0.2381,-0.77206 0,-1.01015 -0.2381,-0.2381 -0.67343,0 -1.01015,0 -2.02031,0 -4.04061,0 -6.06092,0 -4.71404,0 -9.42809,0 -14.14213,0 -0.33672,0 -0.67344,0 -1.01016,0 -0.33671,0 -0.77205,0.23809 -1.01015,0 -0.23809,-0.2381 0,-0.67344 0,-1.01016"
+       d="m 464.67017,222.01679 c 3.37783,0.50241 5.15945,-3.31017 8.08122,-4.04061 3.33133,-0.83283 6.79979,-1.07695 10.10153,-2.0203 1.4479,-0.41369 2.56819,-1.70479 4.04061,-2.02031 3.30885,-0.70904 6.75156,-0.53159 10.10152,-1.01015 1.37437,-0.19634 2.69374,-0.67344 4.04061,-1.01015 6.06092,-0.33672 12.14584,-0.37469 18.18275,-1.01016 43.29157,-4.557 -4.86074,-2.14782 45.45686,-5.05076 42.47061,-2.45023 12.22468,0.77075 55.55839,-3.03046 9.77937,-0.85784 19.51257,-2.20148 29.29443,-3.03045 10.08778,-0.8549 20.21419,-1.19661 30.30457,-2.02031 5.19677,-0.42423 45.63644,-4.94106 46.46702,-5.05076 8.78139,-1.15981 17.49186,-2.81252 26.26397,-4.04061 8.06545,-1.12917 16.21998,-1.63504 24.24366,-3.03046 11.01432,3.70681 18.74088,-5.2358 28.28427,-7.07107 6.68716,-1.28599 13.55552,-1.55323 20.20305,-3.03046 6.33737,-2.71601 5.67134,-2.87482 11.11168,-4.04061 31.85029,-6.37006 -1.85975,1.29335 14.14213,-4.04061 0.63888,-0.21296 1.36698,0.16334 2.02031,0 4.87797,-1.21949 -0.0501,-0.48004 3.03046,-2.0203 0.60233,-0.30117 1.54411,0.47619 2.0203,0 0.2381,-0.2381 0.2381,-0.77206 0,-1.01015 -0.2381,-0.2381 -0.67343,0 -1.01015,0 -2.02031,0 -4.04061,0 -6.06092,0 -4.71404,0 -9.42809,0 -14.14213,0 -0.33672,0 -0.67344,0 -1.01016,0 -0.33671,0 -0.77205,0.23809 -1.01015,0 -0.23809,-0.2381 0,-0.67344 0,-1.01016"
        id="path6648"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="832.36572"
-       y="210.33656"
+       y="154.33656"
        id="text6650"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan6652"
          x="832.36572"
-         y="210.33656">shows relevant actions</tspan></text>
-    <rect
-       y="205.23891"
-       x="277.85715"
-       height="47.337204"
-       width="206.96954"
-       id="rect8385"
-       style="fill:#ffffff;fill-opacity:1;stroke:none" />
-    <text
-       xml:space="preserve"
-       style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#003380;fill-opacity:1;stroke:none;font-family:Sans"
-       x="352.42859"
-       y="222.93361"
-       id="text8373"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan8375"
-         x="352.42859"
-         y="222.93361"
-         style="font-size:13px;fill:#003380;fill-opacity:1">Election public site</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text8381"
-       y="242.93361"
-       x="338.42859"
-       style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#003380;fill-opacity:1;stroke:none;font-family:Sans"
-       xml:space="preserve"><tspan
-         style="font-size:13px;fill:#003380;fill-opacity:1"
-         y="242.93361"
-         x="338.42859"
-         id="tspan8383"
-         sodipodi:role="line">Preview voting booth</tspan></text>
+         y="154.33656">shows relevant actions</tspan></text>
   </g>
 </svg>

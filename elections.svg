@@ -35,9 +35,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
+     inkscape:zoom="1.4"
      inkscape:cx="427.90832"
-     inkscape:cy="687.67844"
+     inkscape:cy="824.13208"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -205,13 +205,13 @@
        xml:space="preserve"
        style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="98.571426"
-       y="252.93361"
+       y="298.93359"
        id="text9162"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan9164"
          x="98.571426"
-         y="252.93361"
+         y="298.93359"
          style="font-size:14px;font-weight:bold;fill:#ffffff">&gt; Account</tspan></text>
     <rect
        style="fill:#f9f9f9;fill-opacity:1;stroke:none"
@@ -247,12 +247,12 @@
     <text
        sodipodi:linespacing="125%"
        id="text9176"
-       y="82.933609"
+       y="132.93361"
        x="120.57143"
        style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        xml:space="preserve"><tspan
          style="font-size:13px;fill:#ffffff"
-         y="82.933609"
+         y="132.93361"
          x="120.57143"
          id="tspan9178"
          sodipodi:role="line">Current election</tspan></text>
@@ -260,67 +260,67 @@
        xml:space="preserve"
        style="font-size:8px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="132.57143"
-       y="106.93361"
+       y="156.93361"
        id="text9180"
        sodipodi:linespacing="200%"><tspan
          sodipodi:role="line"
          id="tspan9182"
          x="132.57143"
-         y="106.93361"
+         y="156.93361"
          style="font-size:12px;line-height:200%;fill:#ffffff">Dashboard</tspan><tspan
          sodipodi:role="line"
          x="132.57143"
-         y="130.93361"
+         y="180.93361"
          style="font-size:12px;line-height:200%;fill:#ffffff"
          id="tspan9206">Basic details</tspan><tspan
          sodipodi:role="line"
          x="132.57143"
-         y="154.93361"
+         y="204.93361"
          style="font-size:12px;line-height:200%;fill:#ffffff"
          id="tspan9188">Authorities</tspan><tspan
          sodipodi:role="line"
          x="132.57143"
-         y="178.93361"
+         y="228.93361"
          style="font-size:12px;line-height:200%;fill:#ffffff"
          id="tspan9184">Census</tspan><tspan
          sodipodi:role="line"
          x="132.57143"
-         y="202.93361"
+         y="252.93361"
          style="font-size:12px;line-height:200%;fill:#ffffff"
          id="tspan9186">Authentication</tspan><tspan
          sodipodi:role="line"
          x="132.57143"
-         y="226.93361"
+         y="276.93359"
          style="font-size:12px;line-height:200%;fill:#ffffff"
-         id="tspan9190">Tally</tspan></text>
+         id="tspan8199">Tally</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:8px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="120.57143"
-       y="274.93359"
+       y="320.93359"
        id="text9192"
        sodipodi:linespacing="200%"><tspan
          sodipodi:role="line"
          id="tspan9194"
          x="120.57143"
-         y="274.93359"
-         style="font-size:13px;fill:#ffffff;line-height:200%">My account</tspan><tspan
+         y="320.93359"
+         style="font-size:13px;line-height:200%;fill:#ffffff">My account</tspan><tspan
          sodipodi:role="line"
          x="120.57143"
-         y="291.18359"
-         style="font-size:13px;fill:#ffffff;line-height:200%"
+         y="346.93359"
+         style="font-size:13px;line-height:200%;fill:#ffffff"
          id="tspan9196">Billing information</tspan><tspan
          sodipodi:role="line"
          x="120.57143"
-         y="307.43359"
-         style="font-size:13px;fill:#ffffff;line-height:200%"
+         y="372.93359"
+         style="font-size:13px;line-height:200%;fill:#ffffff"
          id="tspan9198">Billing history</tspan><tspan
          sodipodi:role="line"
          x="120.57143"
-         y="323.68359"
-         style="font-size:13px;fill:#ffffff;line-height:200%"
+         y="398.93359"
+         style="font-size:13px;line-height:200%;fill:#ffffff"
          id="tspan9200">Buy credits  <tspan
-   style="fill:#00a489;line-height:200%"
+   style="line-height:200%;fill:#00a489"
    id="tspan9204">5000</tspan></tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1072,21 +1072,7 @@
        y="69.497055"
        x="405.53055"
        id="image5018"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB8AAAAeCAIAAABbkFLLAAAAA3NCSVQICAjb4U/gAAAC0ElEQVRI
-ibWWP0h6URTHz/35yISHqEMJImEoQhA9cIhMJTBXVxf/LAkNFjREhBItFdEQ1NKqUjjl4lSNgoF/
-Kmh4ZVODiUUhPVCRvL/hxsVM3zPQ73TOfed87r3nvnO5CGMMQ9O/4aGHTmckI5rN5vPz8/v7OwBo
-NBq9Xj8yMjIAOs/ziUQin8/X63U6KJfLLRaLx+OZmpqSpKOup9poNI6Oji4uLkQynU7n2tqaXC7/
-G10QhI2NjcfHRzrCsuzY2BgAVCoVQRDouNFoPDg4YFm2X/rX19fm5ubNzQ1xZ2Zm/H7/9PQ0QggA
-MMb39/exWOz29pYEcBy3t7fHMN0rLNve3m73z8/PU6kUsb1e7/r6ularJWgAQAiNj4+7XC6E0N3d
-HQCUy2WWZXudwY8/slarnZ2dEdvtdgcCAcr9sV+EfD6f2+0m7unpaa1Wk6Zns9nPz08AUKvVwWCw
-awLV0tKSSqUCAEEQcrmcNJ1Wc2FhYXR0VJyuUCgcDkdHohj99fWVGCaTSRxNZDQaOxLF6LRrFApF
-P3Qa1lfd1Wq1+Fo69Pb2RgylUilNn5iYIEavU+oQDaMlEqPPzc0RI5vNtvdqV/E8XygUiG21WqXp
-k5OTHMcBAMZ4Z2enWq32Qler1d3dXdLnFouFblqMDgDLy8ukrUul0urqarFY/J1TLBZXVlZeXl7E
-Fw5db7Grq6v9/f3vzwjNzs5arVatVgsA5XI5k8lcX1+3ZzEMs7W1RasqQQeAy8vLw8PDZrPZa1Ed
-YhgmEonMz8/3RQeAp6enk5MTclX9FsdxBoMhmUyKT9CTTsTzfCaTeXh4+Pj4aLVaGo3GbDY7HA7y
-C8ZisXg83j5BOBy22Wz90iXVMYFMJguHw3a7fTD0rhMcHx+Tm2oALw6/3+/z+ahrMpl0Ot23gwek
-aDS6uLgYCoUEQaCDA6NjjNPpdDsaYzyAuotouC+9/7T81PD3CAmgAAAAAElFTkSuQmCC
-"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB8AAAAeCAIAAABbkFLLAAAAA3NCSVQICAjb4U/gAAAC0ElEQVRI ibWWP0h6URTHz/35yISHqEMJImEoQhA9cIhMJTBXVxf/LAkNFjREhBItFdEQ1NKqUjjl4lSNgoF/ Kmh4ZVODiUUhPVCRvL/hxsVM3zPQ73TOfed87r3nvnO5CGMMQ9O/4aGHTmckI5rN5vPz8/v7OwBo NBq9Xj8yMjIAOs/ziUQin8/X63U6KJfLLRaLx+OZmpqSpKOup9poNI6Oji4uLkQynU7n2tqaXC7/ G10QhI2NjcfHRzrCsuzY2BgAVCoVQRDouNFoPDg4YFm2X/rX19fm5ubNzQ1xZ2Zm/H7/9PQ0QggA MMb39/exWOz29pYEcBy3t7fHMN0rLNve3m73z8/PU6kUsb1e7/r6ularJWgAQAiNj4+7XC6E0N3d HQCUy2WWZXudwY8/slarnZ2dEdvtdgcCAcr9sV+EfD6f2+0m7unpaa1Wk6Zns9nPz08AUKvVwWCw awLV0tKSSqUCAEEQcrmcNJ1Wc2FhYXR0VJyuUCgcDkdHohj99fWVGCaTSRxNZDQaOxLF6LRrFApF P3Qa1lfd1Wq1+Fo69Pb2RgylUilNn5iYIEavU+oQDaMlEqPPzc0RI5vNtvdqV/E8XygUiG21WqXp k5OTHMcBAMZ4Z2enWq32Qler1d3dXdLnFouFblqMDgDLy8ukrUul0urqarFY/J1TLBZXVlZeXl7E Fw5db7Grq6v9/f3vzwjNzs5arVatVgsA5XI5k8lcX1+3ZzEMs7W1RasqQQeAy8vLw8PDZrPZa1Ed YhgmEonMz8/3RQeAp6enk5MTclX9FsdxBoMhmUyKT9CTTsTzfCaTeXh4+Pj4aLVaGo3GbDY7HA7y C8ZisXg83j5BOBy22Wz90iXVMYFMJguHw3a7fTD0rhMcHx+Tm2oALw6/3+/z+ahrMpl0Ot23gwek aDS6uLgYCoUEQaCDA6NjjNPpdDsaYzyAuotouC+9/7T81PD3CAmgAAAAAElFTkSuQmCC "
        height="10.44866"
        width="10.796949" />
     <path
@@ -1104,6 +1090,54 @@ aDS6uLgYCoUEQaCDA6NjjNPpdDsaYzyAuotouC+9/7T81PD3CAmgAAAAAElFTkSuQmCC
          sodipodi:role="line"
          id="tspan5033"
          x="614.6778"
-         y="293.73761">infinite scrolling</tspan></text>
+         y="293.73761">infinite scroll</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00a489;fill-opacity:1;stroke:none;font-family:Sans"
+       x="342.57141"
+       y="56.933609"
+       id="text6638"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6640"
+         x="342.57141"
+         y="56.933609"
+         style="font-size:14px;fill:#00a489;fill-opacity:1">+</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text6654"
+       y="54.933609"
+       x="668.57141"
+       style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00a489;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:12px;fill:#00a489;fill-opacity:1"
+         y="54.933609"
+         x="668.57141"
+         id="tspan6656"
+         sodipodi:role="line">Import</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="120.57143"
+       y="110.93361"
+       id="text6658"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6660"
+         x="120.57143"
+         y="110.93361"
+         style="font-size:13px;fill:#ffffff">Import election</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text6662"
+       y="88.933609"
+       x="120.57143"
+       style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:13px;fill:#ffffff"
+         y="88.933609"
+         x="120.57143"
+         id="tspan6664"
+         sodipodi:role="line">New election</tspan></text>
   </g>
 </svg>

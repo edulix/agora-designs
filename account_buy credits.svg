@@ -16,7 +16,7 @@
    id="svg3230"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="import_election.svg">
+   sodipodi:docname="account_buy credits.svg">
   <defs
      id="defs3232">
     <linearGradient
@@ -36,8 +36,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="421.83689"
-     inkscape:cy="836.81597"
+     inkscape:cx="512.77138"
+     inkscape:cy="830.04492"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -56,7 +56,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -198,26 +198,14 @@
        width="19.250162" />
     <path
        style="fill:#414e60;fill-opacity:1;stroke:none"
-       d="m 88.571428,35.505035 178.571432,0 0,590.174825 -178.571432,0 z"
+       d="m 88.571428,35.505035 178.571432,0 0,850.174825 -178.571432,0 z"
        id="rect8883"
        inkscape:connector-curvature="0" />
-    <text
-       xml:space="preserve"
-       style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="98.571426"
-       y="286.93359"
-       id="text9162"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan9164"
-         x="98.571426"
-         y="286.93359"
-         style="font-size:14px;font-weight:bold;fill:#ffffff">&gt; Account</tspan></text>
     <rect
        style="fill:#f9f9f9;fill-opacity:1;stroke:none"
        id="rect9166"
        width="455.71429"
-       height="589.46057"
+       height="850.88916"
        x="267.85715"
        y="35.933609" />
     <text
@@ -225,15 +213,15 @@
        id="text9168"
        y="56.933609"
        x="276.57141"
-       style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00a489;fill-opacity:1;stroke:none;font-family:Sans"
        xml:space="preserve"><tspan
-         style="font-size:14px;fill:#333333"
+         style="font-size:14px;fill:#00a489;fill-opacity:1"
          y="56.933609"
          x="276.57141"
          sodipodi:role="line"
-         id="tspan3403">Elections &gt; Current election &gt; <tspan
-   style="fill:#00a489"
-   id="tspan3405">Import election from tsv</tspan></tspan></text>
+         id="tspan3403"><tspan
+   style="fill:#333333"
+   id="tspan5815">Account &gt; </tspan>Buy credits</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text9172"
@@ -264,8 +252,20 @@
        width="177.96016"
        height="20.968098"
        x="88.873116"
-       y="86.556267"
+       y="372.55627"
        ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="98.571426"
+       y="286.93359"
+       id="text9162"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan9164"
+         x="98.571426"
+         y="286.93359"
+         style="font-size:14px;font-weight:bold;fill:#ffffff">&gt; Account</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:8px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -287,7 +287,7 @@
          x="132.57143"
          y="192.93361"
          style="font-size:12px;line-height:200%;fill:#ffffff"
-         id="tspan9188">Authorities</tspan><tspan
+         id="tspan9188">Questions</tspan><tspan
          sodipodi:role="line"
          x="132.57143"
          y="216.93361"
@@ -329,9 +329,7 @@
          x="120.57143"
          y="386.93359"
          style="font-size:13px;line-height:200%;fill:#ffffff"
-         id="tspan9200">Buy credits  <tspan
-   style="line-height:200%;fill:#00a489"
-   id="tspan9204">5000</tspan></tspan></text>
+         id="tspan9200">Buy credits  5000</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -382,49 +380,286 @@
     <text
        sodipodi:linespacing="125%"
        id="text9277"
-       y="82.659477"
-       x="278.73016"
+       y="91.588013"
+       x="275.48798"
        style="font-size:13px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
        xml:space="preserve"><tspan
          style="font-size:11px;fill:#333333"
-         y="82.659477"
-         x="278.73016"
+         y="91.588013"
+         x="275.48798"
          sodipodi:role="line"
-         id="tspan9281">Importing an election from tsv allows you to manage and automatize the </tspan><tspan
-         style="font-size:11px;fill:#333333"
-         y="96.409477"
-         x="278.73016"
-         sodipodi:role="line"
-         id="tspan3439">creation of elections details externally. Read more about the TSV election</tspan><tspan
-         style="font-size:11px;fill:#333333"
-         y="110.15948"
-         x="278.73016"
-         sodipodi:role="line"
-         id="tspan3443">format here. If you want to create many elections at once, you can use</tspan><tspan
-         style="font-size:11px;fill:#333333"
-         y="123.90948"
-         x="278.73016"
-         sodipodi:role="line"
-         id="tspan3445">the API or contact us.</tspan></text>
+         id="tspan9281">You can buy more credits here safely with                     using your credit card</tspan></text>
+    <image
+       y="75.719322"
+       x="510.28571"
+       id="image5808"
+       xlink:href="data:image/png;base64,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
+"
+       height="20.285715"
+       width="64.320557" />
     <rect
-       ry="0"
-       y="136.15912"
-       x="278.98846"
-       height="23.796524"
-       width="405.10303"
-       id="rect9283"
-       style="fill:#00a489;fill-opacity:1;stroke:none" />
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect5817"
+       width="419.28571"
+       height="82.14286"
+       x="280"
+       y="116.79075" />
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="377.28571"
+       y="151.36218"
+       id="text5819"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5821"
+         x="377.28571"
+         y="151.36218">Table with prices per vote in an election i.e. 1 vote costs 1 credit </tspan><tspan
+         sodipodi:role="line"
+         x="377.28571"
+         y="161.36218"
+         id="tspan5823">when doing the tally, 1 sms = 1 credit etc</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2c3e50;fill-opacity:1;stroke:none;font-family:Sans"
+       x="298.14285"
+       y="236.36218"
+       id="text5825"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5827"
+         x="298.14285"
+         y="236.36218"
+         style="font-weight:bold">Pack 500</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2c3e50;fill-opacity:1;stroke:none;font-family:Sans"
+       x="590.14282"
+       y="236.36218"
+       id="text5833"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5835"
+         x="590.14282"
+         y="236.36218"
+         style="font-weight:bold">Pack 5000</tspan></text>
+    <rect
+       style="fill:#e6e6e6;fill-opacity:1;stroke:none"
+       id="rect5837"
+       width="135"
+       height="119.28571"
+       x="412.42856"
+       y="221.07646"
+       ry="5" />
     <text
        sodipodi:linespacing="125%"
-       id="text9285"
-       y="152.07199"
-       x="444.80811"
-       style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="text5829"
+       y="236.36218"
+       x="436.14285"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2c3e50;fill-opacity:1;stroke:none;font-family:Sans"
        xml:space="preserve"><tspan
-         id="tspan9287"
-         style="font-size:13px;fill:#ffffff"
-         y="152.07199"
-         x="444.80811"
-         sodipodi:role="line">Select file..</tspan></text>
+         y="236.36218"
+         x="436.14285"
+         id="tspan5831"
+         sodipodi:role="line"
+         style="font-weight:bold">Pack 1400</tspan></text>
+    <rect
+       ry="0"
+       y="306.55627"
+       x="423.87311"
+       height="20.968098"
+       width="109.38873"
+       id="rect5839"
+       style="fill:#00a489;fill-opacity:1;stroke:none" />
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       x="452.42856"
+       y="320.64789"
+       id="text5841"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5843"
+         x="452.42856"
+         y="320.64789"
+         style="font-size:12px">Buy now</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2c3e50;fill-opacity:1;stroke:none;font-family:Sans"
+       x="434.14285"
+       y="298.36218"
+       id="text5845"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5847"
+         x="434.14285"
+         y="298.36218"
+         style="fill:#333333">599€ VAT inc.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+       x="478.20209"
+       y="257.58801"
+       id="text5849"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="478.20209"
+         y="257.58801"
+         style="font-size:11px;text-align:center;text-anchor:middle;fill:#333333"
+         id="tspan5853">1500 credits included</tspan><tspan
+         sodipodi:role="line"
+         x="478.20209"
+         y="271.33801"
+         style="font-size:11px;text-align:center;text-anchor:middle;fill:#333333"
+         id="tspan5857">at a great price!</tspan></text>
+    <rect
+       style="fill:#00a489;fill-opacity:1;stroke:none"
+       id="rect5859"
+       width="109.38873"
+       height="20.968098"
+       x="283.87311"
+       y="306.55627"
+       ry="0" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text5861"
+       y="320.64789"
+       x="312.42856"
+       style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:12px"
+         y="320.64789"
+         x="312.42856"
+         id="tspan5863"
+         sodipodi:role="line">Buy now</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5865"
+       y="298.36218"
+       x="294.14285"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2c3e50;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="fill:#333333"
+         y="298.36218"
+         x="294.14285"
+         id="tspan5867"
+         sodipodi:role="line">599€ VAT inc.</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5869"
+       y="257.58801"
+       x="338.20209"
+       style="font-size:13px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan5871"
+         style="font-size:11px;text-align:center;text-anchor:middle;fill:#333333"
+         y="257.58801"
+         x="338.20209"
+         sodipodi:role="line">1500 credits included</tspan><tspan
+         id="tspan5873"
+         style="font-size:11px;text-align:center;text-anchor:middle;fill:#333333"
+         y="271.33801"
+         x="338.20209"
+         sodipodi:role="line">at a great price!</tspan></text>
+    <rect
+       ry="0"
+       y="306.55627"
+       x="577.87311"
+       height="20.968098"
+       width="109.38873"
+       id="rect5875"
+       style="fill:#00a489;fill-opacity:1;stroke:none" />
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       x="606.42859"
+       y="320.64789"
+       id="text5877"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5879"
+         x="606.42859"
+         y="320.64789"
+         style="font-size:12px">Buy now</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2c3e50;fill-opacity:1;stroke:none;font-family:Sans"
+       x="588.14282"
+       y="298.36218"
+       id="text5881"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5883"
+         x="588.14282"
+         y="298.36218"
+         style="fill:#333333">599€ VAT inc.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+       x="632.20209"
+       y="257.58801"
+       id="text5885"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="632.20209"
+         y="257.58801"
+         style="font-size:11px;text-align:center;text-anchor:middle;fill:#333333"
+         id="tspan5887">1500 credits included</tspan><tspan
+         sodipodi:role="line"
+         x="632.20209"
+         y="271.33801"
+         style="font-size:11px;text-align:center;text-anchor:middle;fill:#333333"
+         id="tspan5889">at a great price!</tspan></text>
   </g>
 </svg>

@@ -16,7 +16,7 @@
    id="svg3230"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="import_election.svg">
+   sodipodi:docname="new_election_tally.svg">
   <defs
      id="defs3232">
     <linearGradient
@@ -36,8 +36,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="421.83689"
-     inkscape:cy="836.81597"
+     inkscape:cx="427.74549"
+     inkscape:cy="816.11635"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -56,7 +56,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -198,7 +198,7 @@
        width="19.250162" />
     <path
        style="fill:#414e60;fill-opacity:1;stroke:none"
-       d="m 88.571428,35.505035 178.571432,0 0,590.174825 -178.571432,0 z"
+       d="m 88.571428,35.505035 178.571432,0 0,850.174825 -178.571432,0 z"
        id="rect8883"
        inkscape:connector-curvature="0" />
     <text
@@ -217,7 +217,7 @@
        style="fill:#f9f9f9;fill-opacity:1;stroke:none"
        id="rect9166"
        width="455.71429"
-       height="589.46057"
+       height="850.88916"
        x="267.85715"
        y="35.933609" />
     <text
@@ -233,7 +233,7 @@
          sodipodi:role="line"
          id="tspan3403">Elections &gt; Current election &gt; <tspan
    style="fill:#00a489"
-   id="tspan3405">Import election from tsv</tspan></tspan></text>
+   id="tspan3405">Tally</tspan></tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text9172"
@@ -264,7 +264,7 @@
        width="177.96016"
        height="20.968098"
        x="88.873116"
-       y="86.556267"
+       y="250.55627"
        ry="0" />
     <text
        xml:space="preserve"
@@ -287,7 +287,7 @@
          x="132.57143"
          y="192.93361"
          style="font-size:12px;line-height:200%;fill:#ffffff"
-         id="tspan9188">Authorities</tspan><tspan
+         id="tspan9188">Questions</tspan><tspan
          sodipodi:role="line"
          x="132.57143"
          y="216.93361"
@@ -382,49 +382,215 @@
     <text
        sodipodi:linespacing="125%"
        id="text9277"
-       y="82.659477"
+       y="90.659477"
        x="278.73016"
        style="font-size:13px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
        xml:space="preserve"><tspan
          style="font-size:11px;fill:#333333"
-         y="82.659477"
+         y="90.659477"
          x="278.73016"
          sodipodi:role="line"
-         id="tspan9281">Importing an election from tsv allows you to manage and automatize the </tspan><tspan
+         id="tspan4341">The tally can be done by anyone based on the decrypted votes. The basic</tspan><tspan
          style="font-size:11px;fill:#333333"
-         y="96.409477"
+         y="104.40948"
          x="278.73016"
          sodipodi:role="line"
-         id="tspan3439">creation of elections details externally. Read more about the TSV election</tspan><tspan
+         id="tspan4345">configuration is setup in the  Questions sections, but here you can fine-tune</tspan><tspan
          style="font-size:11px;fill:#333333"
-         y="110.15948"
+         y="118.15948"
          x="278.73016"
          sodipodi:role="line"
-         id="tspan3443">format here. If you want to create many elections at once, you can use</tspan><tspan
-         style="font-size:11px;fill:#333333"
-         y="123.90948"
-         x="278.73016"
+         id="tspan4347">thing such as withdrawls or resolve ties. <tspan
+   style="fill:#003380"
+   id="tspan4349">Learn more..</tspan></tspan></text>
+    <rect
+       style="fill:#f2f2f2;fill-opacity:1;stroke:none"
+       id="rect8614"
+       width="432.85715"
+       height="29.285715"
+       x="273.57141"
+       y="130.57646" />
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Sans"
+       x="297.14282"
+       y="149.43359"
+       id="text8608"
+       sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan3445">the API or contact us.</tspan></text>
+         id="tspan8610"
+         x="297.14282"
+         y="149.43359"
+         style="font-size:14px;fill:#4d4d4d">Question 1: What is that blah blah?</tspan></text>
+    <image
+       width="20.272078"
+       height="13.514719"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAAAWCAIAAADB+WItAAAAA3NCSVQICAjb4U/gAAABEElEQVRI ic3VMaqEMBAG4OwjQT1A1EZsvI2gQs5pIZgcJokgeAkDGrcIWGiMcdmF93fDzPAx1byUUuDH+fs1 8IkhpZRSPlqBj6aFEIwxAEBZlkVReG49uMMAWmutNaXU/xpfYwdMaZhhGL5mCCEopTuwM33f+zD3 hgG2bTu3PJkbwwH4My7jFvBkLg3OuQ/gw9gNzjljzArkeZ5l2SPGYriBqqrqun7EHI1xHN0AhBAh 5GamaXIZaZpijB2AKRFCTdNYGYxxHMcuIwxDQshh6ACYQAjPTJIkhJAgCFzGmbECVsYKAABeVz9q nue2baMougL2LMvSdZ1Sygq4DMNACN3AzqzragVujG/lX/7aD/IGKGnc0gJXW6gAAAAASUVORK5C YII= "
+       id="image3543"
+       x="133.8929"
+       y="-291.06946"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-size:13px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+       x="368.70453"
+       y="185.42633"
+       id="text8046"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan8048"
+         x="368.70453"
+         y="185.42633"
+         style="font-size:12px;text-align:end;text-anchor:end;fill:#333333">Withdrawls</tspan></text>
     <rect
        ry="0"
-       y="136.15912"
-       x="278.98846"
-       height="23.796524"
-       width="405.10303"
-       id="rect9283"
+       y="336.7923"
+       x="276.367"
+       height="29.539526"
+       width="415.81729"
+       id="rect8147"
        style="fill:#00a489;fill-opacity:1;stroke:none" />
     <text
        sodipodi:linespacing="125%"
-       id="text9285"
-       y="152.07199"
-       x="444.80811"
+       id="text8149"
+       y="355.16962"
+       x="386.06531"
        style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        xml:space="preserve"><tspan
-         id="tspan9287"
+         id="tspan8151"
          style="font-size:13px;fill:#ffffff"
-         y="152.07199"
-         x="444.80811"
-         sodipodi:role="line">Select file..</tspan></text>
+         y="355.16962"
+         x="386.06531"
+         sodipodi:role="line">Finish and register election</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3209"
+       y="221.67273"
+       x="398.77051"
+       style="font-size:13px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:12px;text-align:start;text-anchor:start;fill:#333333"
+         y="221.67273"
+         x="398.77051"
+         sodipodi:role="line"
+         id="tspan3211">Option foo</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+       x="398.77051"
+       y="245.67273"
+       id="text3265"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan3267"
+         sodipodi:role="line"
+         x="398.77051"
+         y="245.67273"
+         style="font-size:12px;text-align:start;text-anchor:start;fill:#333333">Option bar</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#cdcdcd;stroke-opacity:1"
+       id="rect4411"
+       width="15"
+       height="16.428572"
+       x="376.85715"
+       y="211.07646" />
+    <rect
+       y="215.07646"
+       x="380.85715"
+       height="8.2993202"
+       width="7.5776401"
+       id="rect4413"
+       style="fill:#808080;fill-opacity:1;stroke:none"
+       ry="0.71429008" />
+    <rect
+       ry="0.71429008"
+       style="fill:#808080;fill-opacity:1;stroke:none"
+       id="rect5183"
+       width="7.5776401"
+       height="8.2993202"
+       x="380.85715"
+       y="215.07646" />
+    <rect
+       y="233.07646"
+       x="376.85715"
+       height="16.428572"
+       width="15"
+       id="rect5185"
+       style="fill:#ffffff;fill-opacity:1;stroke:#cdcdcd;stroke-opacity:1" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text5187"
+       y="267.67273"
+       x="398.77051"
+       style="font-size:13px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:12px;text-align:start;text-anchor:start;fill:#333333"
+         y="267.67273"
+         x="398.77051"
+         sodipodi:role="line"
+         id="tspan5189">Option bar</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#cdcdcd;stroke-opacity:1"
+       id="rect5191"
+       width="15"
+       height="16.428572"
+       x="376.85715"
+       y="255.07648" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text5193"
+       y="289.67273"
+       x="398.77051"
+       style="font-size:13px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:12px;text-align:start;text-anchor:start;fill:#333333"
+         y="289.67273"
+         x="398.77051"
+         sodipodi:role="line"
+         id="tspan5195">Option bar</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#cdcdcd;stroke-opacity:1"
+       id="rect5197"
+       width="15"
+       height="16.428572"
+       x="376.85715"
+       y="277.07648" />
+    <text
+       xml:space="preserve"
+       style="font-size:13px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+       x="398.77051"
+       y="311.67273"
+       id="text5199"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan5201"
+         sodipodi:role="line"
+         x="398.77051"
+         y="311.67273"
+         style="font-size:12px;text-align:start;text-anchor:start;fill:#333333">Option bar</tspan></text>
+    <rect
+       y="299.07648"
+       x="376.85715"
+       height="16.428572"
+       width="15"
+       id="rect5203"
+       style="fill:#ffffff;fill-opacity:1;stroke:#cdcdcd;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-size:13px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none;font-family:Sans"
+       x="374.10867"
+       y="186.46423"
+       id="text5205"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan5209"
+         sodipodi:role="line"
+         x="374.10867"
+         y="186.46423"
+         style="font-size:11px;fill:#b3b3b3">Select which candidates should be withdrawed from</tspan><tspan
+         sodipodi:role="line"
+         x="374.10867"
+         y="200.21423"
+         style="font-size:11px;fill:#b3b3b3"
+         id="tspan5213">winning. <tspan
+   style="fill:#003380"
+   id="tspan5218">Learn more..</tspan></tspan></text>
   </g>
 </svg>

@@ -16,7 +16,7 @@
    id="svg3230"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="import_election.svg">
+   sodipodi:docname="account_billing_history.svg">
   <defs
      id="defs3232">
     <linearGradient
@@ -36,8 +36,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="421.83689"
-     inkscape:cy="836.81597"
+     inkscape:cx="442.56627"
+     inkscape:cy="830.04492"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -56,7 +56,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -198,26 +198,14 @@
        width="19.250162" />
     <path
        style="fill:#414e60;fill-opacity:1;stroke:none"
-       d="m 88.571428,35.505035 178.571432,0 0,590.174825 -178.571432,0 z"
+       d="m 88.571428,35.505035 178.571432,0 0,850.174825 -178.571432,0 z"
        id="rect8883"
        inkscape:connector-curvature="0" />
-    <text
-       xml:space="preserve"
-       style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="98.571426"
-       y="286.93359"
-       id="text9162"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan9164"
-         x="98.571426"
-         y="286.93359"
-         style="font-size:14px;font-weight:bold;fill:#ffffff">&gt; Account</tspan></text>
     <rect
        style="fill:#f9f9f9;fill-opacity:1;stroke:none"
        id="rect9166"
        width="455.71429"
-       height="589.46057"
+       height="850.88916"
        x="267.85715"
        y="35.933609" />
     <text
@@ -231,9 +219,9 @@
          y="56.933609"
          x="276.57141"
          sodipodi:role="line"
-         id="tspan3403">Elections &gt; Current election &gt; <tspan
+         id="tspan3403">Account &gt; <tspan
    style="fill:#00a489"
-   id="tspan3405">Import election from tsv</tspan></tspan></text>
+   id="tspan3405">Billing history</tspan></tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text9172"
@@ -264,8 +252,20 @@
        width="177.96016"
        height="20.968098"
        x="88.873116"
-       y="86.556267"
+       y="346.55627"
        ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="98.571426"
+       y="286.93359"
+       id="text9162"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan9164"
+         x="98.571426"
+         y="286.93359"
+         style="font-size:14px;font-weight:bold;fill:#ffffff">&gt; Account</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:8px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -287,7 +287,7 @@
          x="132.57143"
          y="192.93361"
          style="font-size:12px;line-height:200%;fill:#ffffff"
-         id="tspan9188">Authorities</tspan><tspan
+         id="tspan9188">Questions</tspan><tspan
          sodipodi:role="line"
          x="132.57143"
          y="216.93361"
@@ -382,49 +382,324 @@
     <text
        sodipodi:linespacing="125%"
        id="text9277"
-       y="82.659477"
-       x="278.73016"
-       style="font-size:13px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+       y="94.730865"
+       x="276.05939"
+       style="font-size:13px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00a489;fill-opacity:1;stroke:none;font-family:Sans"
        xml:space="preserve"><tspan
-         style="font-size:11px;fill:#333333"
-         y="82.659477"
-         x="278.73016"
+         style="font-size:11px;fill:#00a489;fill-opacity:1"
+         y="94.730865"
+         x="276.05939"
          sodipodi:role="line"
-         id="tspan9281">Importing an election from tsv allows you to manage and automatize the </tspan><tspan
-         style="font-size:11px;fill:#333333"
-         y="96.409477"
-         x="278.73016"
-         sodipodi:role="line"
-         id="tspan3439">creation of elections details externally. Read more about the TSV election</tspan><tspan
-         style="font-size:11px;fill:#333333"
-         y="110.15948"
-         x="278.73016"
-         sodipodi:role="line"
-         id="tspan3443">format here. If you want to create many elections at once, you can use</tspan><tspan
-         style="font-size:11px;fill:#333333"
-         y="123.90948"
-         x="278.73016"
-         sodipodi:role="line"
-         id="tspan3445">the API or contact us.</tspan></text>
+         id="tspan5345"><tspan
+   style="fill:#333333"
+   id="tspan5649">Current number of credits in the account:</tspan> 5000</tspan></text>
     <rect
-       ry="0"
-       y="136.15912"
-       x="278.98846"
-       height="23.796524"
-       width="405.10303"
-       id="rect9283"
-       style="fill:#00a489;fill-opacity:1;stroke:none" />
+       style="fill:#00a489;fill-opacity:1;stroke:none"
+       id="rect5651"
+       width="118.67443"
+       height="28.110954"
+       x="585.51996"
+       y="49.163849"
+       ry="0" />
     <text
        sodipodi:linespacing="125%"
-       id="text9285"
-       y="152.07199"
-       x="444.80811"
-       style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="text5653"
+       y="66.904297"
+       x="676.8114"
+       style="font-size:13px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
        xml:space="preserve"><tspan
-         id="tspan9287"
-         style="font-size:13px;fill:#ffffff"
-         y="152.07199"
-         x="444.80811"
-         sodipodi:role="line">Select file..</tspan></text>
+         style="font-size:12px;text-align:end;text-anchor:end;fill:#ffffff"
+         y="66.904297"
+         x="676.8114"
+         id="tspan5655"
+         sodipodi:role="line">Buy credits</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+       x="278.05939"
+       y="120.73087"
+       id="text5657"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan5659"
+         sodipodi:role="line"
+         x="278.05939"
+         y="120.73087"
+         style="font-size:11px;font-weight:bold;fill:#333333;fill-opacity:1">Date              Details                               Credits      Balance     Price</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5663"
+       y="144.73087"
+       x="278.05939"
+       style="font-size:13px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:11px;fill:#333333;fill-opacity:1"
+         y="144.73087"
+         x="278.05939"
+         sodipodi:role="line"
+         id="tspan5665">17/01/2015</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00a489;fill-opacity:1;stroke:none;font-family:Sans"
+       x="360.05939"
+       y="144.73087"
+       id="text5667"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan5669"
+         sodipodi:role="line"
+         x="360.05939"
+         y="144.73087"
+         style="font-size:11px;fill:#333333;fill-opacity:1">Buy Pack 5000. </tspan><tspan
+         sodipodi:role="line"
+         x="360.05939"
+         y="158.48087"
+         style="font-size:11px;fill:#00a489;fill-opacity:1"
+         id="tspan5675">Download invoce (pdf)</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5671"
+       y="144.73087"
+       x="524.05939"
+       style="font-size:13px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:11px;fill:#333333;fill-opacity:1"
+         y="144.73087"
+         x="524.05939"
+         sodipodi:role="line"
+         id="tspan5673">+5000</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+       x="660.05939"
+       y="144.73087"
+       id="text5677"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan5679"
+         sodipodi:role="line"
+         x="660.05939"
+         y="144.73087"
+         style="font-size:11px;fill:#333333;fill-opacity:1">1960€</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+       x="590.05939"
+       y="144.73087"
+       id="text5681"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan5683"
+         sodipodi:role="line"
+         x="590.05939"
+         y="144.73087"
+         style="font-size:11px;fill:#333333;fill-opacity:1">5642</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect5707"
+       width="428.57144"
+       height="36.42857"
+       x="271.42856"
+       y="165.79076"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:13px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+       x="278.05939"
+       y="180.73087"
+       id="text5685"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan5687"
+         sodipodi:role="line"
+         x="278.05939"
+         y="180.73087"
+         style="font-size:11px;fill:#333333;fill-opacity:1">17/01/2015</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5689"
+       y="180.73087"
+       x="360.05939"
+       style="font-size:13px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00a489;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:11px;fill:#333333;fill-opacity:1"
+         y="180.73087"
+         x="360.05939"
+         sodipodi:role="line"
+         id="tspan5691">Buy Pack 5000. </tspan><tspan
+         id="tspan5693"
+         style="font-size:11px;fill:#00a489;fill-opacity:1"
+         y="194.48087"
+         x="360.05939"
+         sodipodi:role="line">Download invoce (pdf)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+       x="524.05939"
+       y="180.73087"
+       id="text5695"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan5697"
+         sodipodi:role="line"
+         x="524.05939"
+         y="180.73087"
+         style="font-size:11px;fill:#333333;fill-opacity:1">+5000</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5699"
+       y="180.73087"
+       x="660.05939"
+       style="font-size:13px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:11px;fill:#333333;fill-opacity:1"
+         y="180.73087"
+         x="660.05939"
+         sodipodi:role="line"
+         id="tspan5701">1960€</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5703"
+       y="180.73087"
+       x="590.05939"
+       style="font-size:13px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:11px;fill:#333333;fill-opacity:1"
+         y="180.73087"
+         x="590.05939"
+         sodipodi:role="line"
+         id="tspan5705">5642</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+       x="278.05939"
+       y="218.73087"
+       id="text5709"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan5711"
+         sodipodi:role="line"
+         x="278.05939"
+         y="218.73087"
+         style="font-size:11px;fill:#333333;fill-opacity:1">17/01/2015</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5713"
+       y="218.73087"
+       x="360.05939"
+       style="font-size:13px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00a489;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:11px;fill:#333333;fill-opacity:1"
+         y="218.73087"
+         x="360.05939"
+         sodipodi:role="line"
+         id="tspan5715">Buy Pack 5000. </tspan><tspan
+         id="tspan5717"
+         style="font-size:11px;fill:#00a489;fill-opacity:1"
+         y="232.48087"
+         x="360.05939"
+         sodipodi:role="line">Download invoce (pdf)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+       x="524.05939"
+       y="218.73087"
+       id="text5719"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan5721"
+         sodipodi:role="line"
+         x="524.05939"
+         y="218.73087"
+         style="font-size:11px;fill:#333333;fill-opacity:1">+5000</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5723"
+       y="218.73087"
+       x="660.05939"
+       style="font-size:13px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:11px;fill:#333333;fill-opacity:1"
+         y="218.73087"
+         x="660.05939"
+         sodipodi:role="line"
+         id="tspan5725">1960€</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5727"
+       y="218.73087"
+       x="590.05939"
+       style="font-size:13px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:11px;fill:#333333;fill-opacity:1"
+         y="218.73087"
+         x="590.05939"
+         sodipodi:role="line"
+         id="tspan5729">5642</tspan></text>
+    <rect
+       ry="0"
+       y="239.79076"
+       x="271.42856"
+       height="36.42857"
+       width="428.57144"
+       id="rect5731"
+       style="fill:#ffffff;fill-opacity:1;stroke:none" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text5733"
+       y="254.73087"
+       x="278.05939"
+       style="font-size:13px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:11px;fill:#333333;fill-opacity:1"
+         y="254.73087"
+         x="278.05939"
+         sodipodi:role="line"
+         id="tspan5735">17/01/2015</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00a489;fill-opacity:1;stroke:none;font-family:Sans"
+       x="360.05939"
+       y="254.73087"
+       id="text5737"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan5739"
+         sodipodi:role="line"
+         x="360.05939"
+         y="254.73087"
+         style="font-size:11px;fill:#333333;fill-opacity:1">Buy Pack 5000. </tspan><tspan
+         sodipodi:role="line"
+         x="360.05939"
+         y="268.48087"
+         style="font-size:11px;fill:#00a489;fill-opacity:1"
+         id="tspan5741">Download invoce (pdf)</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5743"
+       y="254.73087"
+       x="524.05939"
+       style="font-size:13px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:11px;fill:#333333;fill-opacity:1"
+         y="254.73087"
+         x="524.05939"
+         sodipodi:role="line"
+         id="tspan5745">+5000</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+       x="660.05939"
+       y="254.73087"
+       id="text5747"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan5749"
+         sodipodi:role="line"
+         x="660.05939"
+         y="254.73087"
+         style="font-size:11px;fill:#333333;fill-opacity:1">1960€</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+       x="590.05939"
+       y="254.73087"
+       id="text5751"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan5753"
+         sodipodi:role="line"
+         x="590.05939"
+         y="254.73087"
+         style="font-size:11px;fill:#333333;fill-opacity:1">5642</tspan></text>
   </g>
 </svg>

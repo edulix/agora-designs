@@ -16,7 +16,7 @@
    id="svg3230"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="import_election.svg">
+   sodipodi:docname="new_election_census.svg">
   <defs
      id="defs3232">
     <linearGradient
@@ -36,8 +36,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="421.83689"
-     inkscape:cy="836.81597"
+     inkscape:cx="412.65514"
+     inkscape:cy="460.96841"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -198,7 +198,7 @@
        width="19.250162" />
     <path
        style="fill:#414e60;fill-opacity:1;stroke:none"
-       d="m 88.571428,35.505035 178.571432,0 0,590.174825 -178.571432,0 z"
+       d="m 88.571428,35.505035 178.571432,0 0,850.174825 -178.571432,0 z"
        id="rect8883"
        inkscape:connector-curvature="0" />
     <text
@@ -217,7 +217,7 @@
        style="fill:#f9f9f9;fill-opacity:1;stroke:none"
        id="rect9166"
        width="455.71429"
-       height="589.46057"
+       height="850.88916"
        x="267.85715"
        y="35.933609" />
     <text
@@ -233,7 +233,7 @@
          sodipodi:role="line"
          id="tspan3403">Elections &gt; Current election &gt; <tspan
    style="fill:#00a489"
-   id="tspan3405">Import election from tsv</tspan></tspan></text>
+   id="tspan3405">Census</tspan></tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text9172"
@@ -264,7 +264,7 @@
        width="177.96016"
        height="20.968098"
        x="88.873116"
-       y="86.556267"
+       y="202.55627"
        ry="0" />
     <text
        xml:space="preserve"
@@ -382,49 +382,400 @@
     <text
        sodipodi:linespacing="125%"
        id="text9277"
-       y="82.659477"
+       y="102.65948"
        x="278.73016"
        style="font-size:13px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
        xml:space="preserve"><tspan
          style="font-size:11px;fill:#333333"
-         y="82.659477"
+         y="102.65948"
          x="278.73016"
          sodipodi:role="line"
-         id="tspan9281">Importing an election from tsv allows you to manage and automatize the </tspan><tspan
+         id="tspan3494">The census specifies who can vote and the details we need from each</tspan><tspan
          style="font-size:11px;fill:#333333"
-         y="96.409477"
+         y="116.40948"
          x="278.73016"
          sodipodi:role="line"
-         id="tspan3439">creation of elections details externally. Read more about the TSV election</tspan><tspan
-         style="font-size:11px;fill:#333333"
-         y="110.15948"
-         x="278.73016"
-         sodipodi:role="line"
-         id="tspan3443">format here. If you want to create many elections at once, you can use</tspan><tspan
-         style="font-size:11px;fill:#333333"
-         y="123.90948"
-         x="278.73016"
-         sodipodi:role="line"
-         id="tspan3445">the API or contact us.</tspan></text>
+         id="tspan3502">elector. Here you can configure and manage it.</tspan></text>
     <rect
        ry="0"
-       y="136.15912"
-       x="278.98846"
+       y="62.606773"
+       x="526.16278"
        height="23.796524"
-       width="405.10303"
+       width="177.96016"
        id="rect9283"
        style="fill:#00a489;fill-opacity:1;stroke:none" />
     <text
        sodipodi:linespacing="125%"
        id="text9285"
-       y="152.07199"
-       x="444.80811"
-       style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       y="78.519653"
+       x="591.98242"
+       style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
        xml:space="preserve"><tspan
          id="tspan9287"
          style="font-size:13px;fill:#ffffff"
-         y="152.07199"
-         x="444.80811"
-         sodipodi:role="line">Select file..</tspan></text>
+         y="78.519653"
+         x="591.98242"
+         sodipodi:role="line">Actions</tspan></text>
+    <path
+       sodipodi:type="star"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="path3530"
+       sodipodi:sides="3"
+       sodipodi:cx="715"
+       sodipodi:cy="80.933609"
+       sodipodi:r1="35.00729"
+       sodipodi:r2="16.990604"
+       sodipodi:arg1="1.5912017"
+       sodipodi:arg2="2.6383992"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 714.28571,115.93361 -14.17028,-26.806696 -15.06918,-26.311897 30.30042,1.131525 30.32136,0.105657 -16.13014,25.675173 z"
+       inkscape:transform-center-x="-0.063546545"
+       inkscape:transform-center-y="1.5019083"
+       transform="matrix(0.17793641,0,0,0.17793641,565.15158,57.637938)" />
+    <rect
+       style="fill:#f2f2f2;fill-opacity:1;stroke:none"
+       id="rect8614"
+       width="432.85715"
+       height="29.285715"
+       x="273.57141"
+       y="130.57646" />
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Sans"
+       x="297.14282"
+       y="149.43359"
+       id="text8608"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan8610"
+         x="297.14282"
+         y="149.43359"
+         style="font-size:14px;fill:#4d4d4d">Configuration</tspan></text>
+    <image
+       width="20.272078"
+       height="13.514719"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAAAWCAIAAADB+WItAAAAA3NCSVQICAjb4U/gAAABEElEQVRI ic3VMaqEMBAG4OwjQT1A1EZsvI2gQs5pIZgcJokgeAkDGrcIWGiMcdmF93fDzPAx1byUUuDH+fs1 8IkhpZRSPlqBj6aFEIwxAEBZlkVReG49uMMAWmutNaXU/xpfYwdMaZhhGL5mCCEopTuwM33f+zD3 hgG2bTu3PJkbwwH4My7jFvBkLg3OuQ/gw9gNzjljzArkeZ5l2SPGYriBqqrqun7EHI1xHN0AhBAh 5GamaXIZaZpijB2AKRFCTdNYGYxxHMcuIwxDQshh6ACYQAjPTJIkhJAgCFzGmbECVsYKAABeVz9q nue2baMougL2LMvSdZ1Sygq4DMNACN3AzqzragVujG/lX/7aD/IGKGnc0gJXW6gAAAAASUVORK5C YII= "
+       id="image3543"
+       x="133.8929"
+       y="-291.06946"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-size:13px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+       x="372.70453"
+       y="185.42633"
+       id="text8046"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan8048"
+         x="372.70453"
+         y="185.42633"
+         style="font-size:12px;text-align:end;text-anchor:end;fill:#333333">Registration</tspan></text>
+    <rect
+       style="fill:#b3b3b3;fill-opacity:1;stroke:none"
+       id="rect8054"
+       width="81.051308"
+       height="67.203346"
+       x="380.68466"
+       y="199.82849" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text8060"
+       y="207.42633"
+       x="480.51508"
+       style="font-size:13px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:12px;fill:#333333"
+         y="207.42633"
+         x="480.51508"
+         id="tspan8062"
+         sodipodi:role="line">External</tspan></text>
+    <rect
+       ry="2.6179042"
+       y="354.41693"
+       x="371.55008"
+       height="82.890923"
+       width="324.87604"
+       id="rect8072"
+       style="fill:#ffffff;stroke:#efefef;stroke-width:1.47641253;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <text
+       xml:space="preserve"
+       style="font-size:13px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+       x="480.51508"
+       y="223.42633"
+       id="text8076"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="480.51508"
+         y="223.42633"
+         style="font-size:11px;fill:#b3b3b3"
+         id="tspan3696">Not managed here. To do this, you </tspan><tspan
+         sodipodi:role="line"
+         x="480.51508"
+         y="237.17633"
+         style="font-size:11px;fill:#b3b3b3"
+         id="tspan3700">need to learn <tspan
+   style="fill:#003380"
+   id="tspan3716">how to do the </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="480.51508"
+         y="250.92633"
+         style="font-size:11px;fill:#b3b3b3"
+         id="tspan3702"><tspan
+   style="fill:#003380"
+   id="tspan3726">integration</tspan> or <tspan
+   style="fill:#003380"
+   id="tspan3718">contact us</tspan> to help you.</tspan></text>
+    <rect
+       y="361.82849"
+       x="380.68466"
+       height="67.203346"
+       width="81.051308"
+       id="rect8090"
+       style="fill:#b3b3b3;fill-opacity:1;stroke:none" />
+    <text
+       xml:space="preserve"
+       style="font-size:13px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00a489;fill-opacity:1;stroke:none;font-family:Sans"
+       x="480.51508"
+       y="369.42639"
+       id="text8092"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan8094"
+         x="480.51508"
+         y="369.42639"
+         style="font-size:12px;fill:#00a489;fill-opacity:1">Closed registration</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text8096"
+       y="385.42639"
+       x="480.51508"
+       style="font-size:13px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan8104"
+         style="font-size:11px;fill:#b3b3b3"
+         y="385.42639"
+         x="480.51508"
+         sodipodi:role="line">The census is generated by </tspan><tspan
+         style="font-size:11px;fill:#b3b3b3"
+         y="399.17639"
+         x="480.51508"
+         sodipodi:role="line"
+         id="tspan3741">administrators. Third parties cannot</tspan><tspan
+         style="font-size:11px;fill:#b3b3b3"
+         y="412.92639"
+         x="480.51508"
+         sodipodi:role="line"
+         id="tspan3743">register into the census. <tspan
+   style="fill:#003380"
+   id="tspan3745">Learn more..</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none;font-family:Sans"
+       x="380.51508"
+       y="185.42633"
+       id="text8175"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="380.51508"
+         y="185.42633"
+         style="font-size:11px;fill:#b3b3b3"
+         id="tspan4684">How is the census generated? <tspan
+   style="fill:#003380"
+   id="tspan4688">Learn more..</tspan></tspan></text>
+    <rect
+       y="279.82849"
+       x="380.68466"
+       height="67.203346"
+       width="81.051308"
+       id="rect3747"
+       style="fill:#b3b3b3;fill-opacity:1;stroke:none" />
+    <text
+       xml:space="preserve"
+       style="font-size:13px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+       x="480.51508"
+       y="287.42633"
+       id="text3749"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3751"
+         x="480.51508"
+         y="287.42633"
+         style="font-size:12px;fill:#333333">Open registration</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3753"
+       y="303.42633"
+       x="480.51508"
+       style="font-size:13px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan3755"
+         style="font-size:11px;fill:#b3b3b3"
+         y="303.42633"
+         x="480.51508"
+         sodipodi:role="line">Census can not only be generated</tspan><tspan
+         id="tspan3761"
+         style="font-size:11px;fill:#b3b3b3"
+         y="317.17633"
+         x="480.51508"
+         sodipodi:role="line">by election administrators, but also </tspan><tspan
+         style="font-size:11px;fill:#b3b3b3"
+         y="330.92633"
+         x="480.51508"
+         sodipodi:role="line"
+         id="tspan3774">individuals can register following the </tspan><tspan
+         style="font-size:11px;fill:#b3b3b3"
+         y="344.67633"
+         x="480.51508"
+         sodipodi:role="line"
+         id="tspan3777">authentication process.  <tspan
+   id="tspan3765"
+   style="fill:#003380">Learn more..</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+       x="760.51508"
+       y="67.426331"
+       id="text3780"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3782"
+         x="760.51508"
+         y="67.426331"
+         style="font-size:12px;fill:#333333">Import from tsv</tspan><tspan
+         sodipodi:role="line"
+         x="760.51508"
+         y="82.426331"
+         style="font-size:12px;fill:#333333"
+         id="tspan3788">Export to tsv</tspan><tspan
+         sodipodi:role="line"
+         x="760.51508"
+         y="97.426331"
+         style="font-size:12px;fill:#333333"
+         id="tspan3792">Send mails</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 747.85715,54.505036 c 0,35.238095 0,70.476194 0,105.714284 0,10.96469 -0.34392,21.92239 0.71428,32.85714 0.34706,3.58629 1.03068,7.13329 1.42857,10.71429 0.31662,2.84951 0.33537,5.72953 0.71429,8.57143 0.0995,0.74632 0.65176,1.39253 0.71428,2.14286 0.17796,2.13545 -0.194,4.29451 0,6.42857 0.0482,0.53021 0.60988,0.90651 0.71429,1.42857 0.37646,1.88231 0.52328,3.80423 0.71429,5.71429 0.0135,0.13511 -0.014,2.81521 0,2.85714 0.10648,0.31944 0.5637,0.41311 0.71428,0.71428 0.0939,0.18782 0,2.48363 0,2.85715"
+       id="path3784"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 747.14286,78.79075 c -1.10511,-0.495419 -4.36352,0.337691 -5.71429,0 -0.5165,-0.129125 -0.91207,-0.58516 -1.42857,-0.714286 -0.46197,-0.115493 -0.95716,0.06734 -1.42857,0 -1.20185,-0.171692 -2.37389,-0.514696 -3.57143,-0.714285 -1.07143,-0.178572 -0.71428,0.357143 -2.14285,0 -0.51651,-0.129126 -0.9235,-0.545927 -1.42858,-0.714286 -0.22587,-0.07529 -0.47619,0 -0.71428,0 -0.47619,0 -0.95238,0 -1.42857,0 -2.14286,0 -4.28572,0 -6.42857,0 -0.32169,0 -1.92548,0.108691 -2.14286,0 -0.30117,-0.150585 -0.41312,-0.563701 -0.71429,-0.714286 -0.57143,-0.285714 -1.57143,0.285715 -2.14285,0 -0.30117,-0.150584 -0.41312,-0.563701 -0.71429,-0.714285 -0.21296,-0.10648 -0.47619,0 -0.71429,0 -0.23809,0 -0.47619,0 -0.71428,0 -1.42857,0 -2.85714,0 -4.28572,0"
+       id="path3786"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#ffffff;stroke:#bbbbbb;stroke-width:0.30706593;stroke-miterlimit:4;stroke-opacity:0.41062802;stroke-dasharray:none"
+       id="rect3756"
+       width="120.09227"
+       height="19.064182"
+       x="280.22174"
+       y="495.83008"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none;font-family:Sans"
+       x="285.94769"
+       y="508.25424"
+       id="text5006"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5008"
+         x="285.94769"
+         y="508.25424"
+         style="font-size:10px">Filter..</tspan></text>
+    <image
+       y="498.52823"
+       x="383.50433"
+       id="image5018"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB8AAAAeCAIAAABbkFLLAAAAA3NCSVQICAjb4U/gAAAC0ElEQVRI ibWWP0h6URTHz/35yISHqEMJImEoQhA9cIhMJTBXVxf/LAkNFjREhBItFdEQ1NKqUjjl4lSNgoF/ Kmh4ZVODiUUhPVCRvL/hxsVM3zPQ73TOfed87r3nvnO5CGMMQ9O/4aGHTmckI5rN5vPz8/v7OwBo NBq9Xj8yMjIAOs/ziUQin8/X63U6KJfLLRaLx+OZmpqSpKOup9poNI6Oji4uLkQynU7n2tqaXC7/ G10QhI2NjcfHRzrCsuzY2BgAVCoVQRDouNFoPDg4YFm2X/rX19fm5ubNzQ1xZ2Zm/H7/9PQ0QggA MMb39/exWOz29pYEcBy3t7fHMN0rLNve3m73z8/PU6kUsb1e7/r6ularJWgAQAiNj4+7XC6E0N3d HQCUy2WWZXudwY8/slarnZ2dEdvtdgcCAcr9sV+EfD6f2+0m7unpaa1Wk6Zns9nPz08AUKvVwWCw awLV0tKSSqUCAEEQcrmcNJ1Wc2FhYXR0VJyuUCgcDkdHohj99fWVGCaTSRxNZDQaOxLF6LRrFApF P3Qa1lfd1Wq1+Fo69Pb2RgylUilNn5iYIEavU+oQDaMlEqPPzc0RI5vNtvdqV/E8XygUiG21WqXp k5OTHMcBAMZ4Z2enWq32Qler1d3dXdLnFouFblqMDgDLy8ukrUul0urqarFY/J1TLBZXVlZeXl7E Fw5db7Grq6v9/f3vzwjNzs5arVatVgsA5XI5k8lcX1+3ZzEMs7W1RasqQQeAy8vLw8PDZrPZa1Ed YhgmEonMz8/3RQeAp6enk5MTclX9FsdxBoMhmUyKT9CTTsTzfCaTeXh4+Pj4aLVaGo3GbDY7HA7y C8ZisXg83j5BOBy22Wz90iXVMYFMJguHw3a7fTD0rhMcHx+Tm2oALw6/3+/z+ahrMpl0Ot23gwek aDS6uLgYCoUEQaCDA6NjjNPpdDsaYzyAuotouC+9/7T81PD3CAmgAAAAAElFTkSuQmCC "
+       height="13.305802"
+       width="13.749331" />
+    <rect
+       style="fill:#00a489;fill-opacity:1;stroke:none"
+       id="rect4026"
+       width="87.245872"
+       height="18.082239"
+       x="606.16278"
+       y="496.32111"
+       ry="0" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4028"
+       y="508.25424"
+       x="621.94769"
+       style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:10px;fill:#ffffff"
+         y="508.25424"
+         x="621.94769"
+         id="tspan4030"
+         sodipodi:role="line">Add column</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect4032"
+       width="415.71429"
+       height="172.85715"
+       x="280"
+       y="526.64789" />
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="478.57144"
+       y="615.2193"
+       id="text4034"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4036"
+         x="478.57144"
+         y="615.2193">Table</tspan></text>
+    <rect
+       y="454.57648"
+       x="273.57141"
+       height="29.285715"
+       width="432.85715"
+       id="rect4038"
+       style="fill:#f2f2f2;fill-opacity:1;stroke:none" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4040"
+       y="473.43359"
+       x="297.14282"
+       style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:14px;fill:#4d4d4d"
+         y="473.43359"
+         x="297.14282"
+         id="tspan4042"
+         sodipodi:role="line">Manage census</tspan></text>
+    <image
+       transform="matrix(0,1,-1,0,0,0)"
+       y="-291.06946"
+       x="457.89288"
+       id="image4046"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAAAWCAIAAADB+WItAAAAA3NCSVQICAjb4U/gAAABEElEQVRI ic3VMaqEMBAG4OwjQT1A1EZsvI2gQs5pIZgcJokgeAkDGrcIWGiMcdmF93fDzPAx1byUUuDH+fs1 8IkhpZRSPlqBj6aFEIwxAEBZlkVReG49uMMAWmutNaXU/xpfYwdMaZhhGL5mCCEopTuwM33f+zD3 hgG2bTu3PJkbwwH4My7jFvBkLg3OuQ/gw9gNzjljzArkeZ5l2SPGYriBqqrqun7EHI1xHN0AhBAh 5GamaXIZaZpijB2AKRFCTdNYGYxxHMcuIwxDQshh6ACYQAjPTJIkhJAgCFzGmbECVsYKAABeVz9q nue2baMougL2LMvSdZ1Sygq4DMNACN3AzqzragVujG/lX/7aD/IGKGnc0gJXW6gAAAAASUVORK5C YII= "
+       height="13.514719"
+       width="20.272078" />
+    <rect
+       ry="0"
+       y="711.16382"
+       x="279.94852"
+       height="29.539526"
+       width="417.24585"
+       id="rect8147"
+       style="fill:#00a489;fill-opacity:1;stroke:none" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text8149"
+       y="729.54114"
+       x="402.93253"
+       style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan8151"
+         style="font-size:13px;fill:#ffffff"
+         y="729.54114"
+         x="402.93253"
+         sodipodi:role="line">Continue election creation</tspan></text>
   </g>
 </svg>

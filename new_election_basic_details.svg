@@ -36,8 +36,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="401.5081"
-     inkscape:cy="819.6142"
+     inkscape:cx="379.36524"
+     inkscape:cy="323.54277"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -417,17 +417,17 @@
     <text
        sodipodi:linespacing="125%"
        id="text8050"
-       y="862.22821"
+       y="876.22821"
        x="384.61478"
        style="font-size:13px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none;font-family:Sans"
        xml:space="preserve"><tspan
          style="font-size:11px;fill:#b3b3b3"
-         y="862.22821"
+         y="876.22821"
          x="384.61478"
          sodipodi:role="line"
          id="tspan8074">Text used in the share in social networks button shown</tspan><tspan
          style="font-size:11px;fill:#b3b3b3"
-         y="875.97821"
+         y="889.97821"
          x="384.61478"
          sodipodi:role="line"
          id="tspan8165">after a voter has voted</tspan></text>
@@ -552,17 +552,17 @@
        xml:space="preserve"
        style="font-size:13px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
        x="306.61478"
-       y="864.22821"
+       y="878.22821"
        id="text8127"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan8129"
          x="306.61478"
-         y="864.22821"
+         y="878.22821"
          style="font-size:12px;fill:#333333">Share text</tspan></text>
     <rect
        ry="0"
-       y="888.4397"
+       y="902.4397"
        x="384.94275"
        height="41.921329"
        width="318.4137"
@@ -602,7 +602,7 @@
          id="tspan8145">layout</tspan></text>
     <g
        id="g3476"
-       transform="translate(0,58)">
+       transform="translate(0,72)">
       <rect
          style="fill:#00a489;fill-opacity:1;stroke:none"
          id="rect8147"
@@ -695,7 +695,7 @@
          id="tspan8550"
          sodipodi:role="line">Theme</tspan></text>
     <rect
-       y="684.63037"
+       y="698.63037"
        x="384.78436"
        height="67.203346"
        width="81.051308"
@@ -705,13 +705,13 @@
        xml:space="preserve"
        style="font-size:13px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
        x="484.61478"
-       y="692.22821"
+       y="706.22821"
        id="text8560"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan8562"
          x="484.61478"
-         y="692.22821"
+         y="706.22821"
          style="font-size:12px;fill:#333333">Basic</tspan></text>
     <rect
        style="fill:#ffffff;stroke:#efefef;stroke-width:1.47641253;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
@@ -719,33 +719,33 @@
        width="324.87604"
        height="82.890923"
        x="375.64978"
-       y="757.21875"
+       y="771.21875"
        ry="2.6179042" />
     <text
        sodipodi:linespacing="125%"
        id="text8566"
-       y="708.22821"
+       y="722.22821"
        x="484.61478"
        style="font-size:13px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
        xml:space="preserve"><tspan
          style="font-size:11px;fill:#b3b3b3"
-         y="708.22821"
+         y="722.22821"
          x="484.61478"
          id="tspan8568"
          sodipodi:role="line">Lorem ipsum lorem ipsum lorem </tspan><tspan
          id="tspan8570"
          style="font-size:11px;fill:#b3b3b3"
-         y="721.97821"
+         y="735.97821"
          x="484.61478"
          sodipodi:role="line">ipsum lorem ipsum lorem ipsum </tspan><tspan
          id="tspan8572"
          style="font-size:11px;fill:#b3b3b3"
-         y="735.72821"
+         y="749.72821"
          x="484.61478"
          sodipodi:role="line">lorem ipsum lorem ipsum lorem</tspan><tspan
          id="tspan8574"
          style="font-size:11px;fill:#b3b3b3"
-         y="749.47821"
+         y="763.47821"
          x="484.61478"
          sodipodi:role="line">ipsum lorem ipsum lorem ipsum</tspan></text>
     <rect
@@ -754,16 +754,16 @@
        width="81.051308"
        height="67.203346"
        x="384.78436"
-       y="764.63037" />
+       y="778.63037" />
     <text
        sodipodi:linespacing="125%"
        id="text8578"
-       y="772.22821"
+       y="786.22821"
        x="484.61478"
        style="font-size:13px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00a489;fill-opacity:1;stroke:none;font-family:Sans"
        xml:space="preserve"><tspan
          style="font-size:12px;fill:#00a489;fill-opacity:1"
-         y="772.22821"
+         y="786.22821"
          x="484.61478"
          id="tspan8580"
          sodipodi:role="line">Preferred theme</tspan></text>
@@ -771,27 +771,27 @@
        xml:space="preserve"
        style="font-size:13px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
        x="484.61478"
-       y="788.22821"
+       y="802.22821"
        id="text8582"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan8584"
          x="484.61478"
-         y="788.22821"
+         y="802.22821"
          style="font-size:11px;fill:#b3b3b3">Lorem ipsum lorem ipsum lorem </tspan><tspan
          sodipodi:role="line"
          x="484.61478"
-         y="801.97821"
+         y="815.97821"
          style="font-size:11px;fill:#b3b3b3"
          id="tspan8586">ipsum lorem ipsum lorem ipsum </tspan><tspan
          sodipodi:role="line"
          x="484.61478"
-         y="815.72821"
+         y="829.72821"
          style="font-size:11px;fill:#b3b3b3"
          id="tspan8588">lorem ipsum lorem ipsum lorem</tspan><tspan
          sodipodi:role="line"
          x="484.61478"
-         y="829.47821"
+         y="843.47821"
          style="font-size:11px;fill:#b3b3b3"
          id="tspan8590">ipsum lorem ipsum lorem ipsum</tspan></text>
     <text
@@ -805,7 +805,14 @@
          y="674.22821"
          x="384.61478"
          sodipodi:role="line"
-         id="tspan8606">How will the election look like?</tspan></text>
+         id="tspan8606">How will the election look like? If you want us to create a </tspan><tspan
+         style="font-size:11px;fill:#b3b3b3"
+         y="687.97821"
+         x="384.61478"
+         sodipodi:role="line"
+         id="tspan4674">theme  for you <tspan
+   style="fill:#003380"
+   id="tspan4676">contact us</tspan></tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 457.14286,501.50504 c 0.67448,3.19438 3.00796,-0.63888 4.28571,0 1.71693,0.85846 3.31803,1.93206 5,2.85714 3.08028,1.69416 6.19317,3.32835 9.28572,5 16.85343,9.10997 18.49306,10.39032 36.42857,18.57143 7.08263,3.23067 14.02929,6.86672 21.42857,9.28572 5.06041,1.65436 10.71085,1.03771 15.71428,2.85714 8.20625,2.98409 15.25052,8.78101 23.57143,11.42857 7.57273,2.4095 15.96613,1.26679 23.57143,3.57143 8.25984,2.50298 15.28734,8.29278 23.57143,10.71428 7.36994,2.15429 15.27156,1.66725 22.85714,2.85715 4.56713,0.71641 9.01401,2.08141 13.57143,2.85714 6.63887,1.13002 13.35404,1.76962 20,2.85714 6.45206,1.05579 12.84733,2.43525 19.28572,3.57143 8.19452,1.44609 24.49313,3.922 32.85714,5.71429 1.47242,0.31552 2.79878,1.19066 4.28571,1.42857 4.49168,0.71867 9.05205,0.91207 13.57143,1.42857 3.80953,0.47619 7.61905,0.95238 11.42857,1.42857 1.42857,0.47619 2.7915,1.2418 4.28572,1.42857 4.25917,0.5324 8.58095,0.34245 12.85714,0.71429 1.20949,0.10517 2.3634,0.59348 3.57143,0.71428 3.56159,0.35616 7.15682,0.31902 10.71428,0.71429 8.46147,0.94016 -3.96156,0.71429 4.28572,0.71429 5.23809,0 10.47619,0 15.71428,0 1.42858,0 2.85715,0 4.28572,0 0.47619,0 1.90476,0 1.42857,0 -10.95238,0 -21.90476,0 -32.85714,0 -1.66667,0 -3.33334,0 -5,0 -0.2381,0 -0.54593,0.16835 -0.71429,0 -0.35714,-0.35715 0.35714,-1.78572 0,-2.14286 -0.33672,-0.33672 -1.00265,0.21296 -1.42857,0 -0.30117,-0.15059 -0.41312,-0.5637 -0.71429,-0.71429 -0.45335,-0.22667 -3.33985,0.23157 -3.57142,0 -0.16836,-0.16836 0.16835,-0.54592 0,-0.71428 -0.35715,-0.35715 -1.78572,0.35714 -2.14286,0 -0.0287,-0.0288 0,-2.59483 0,-2.85715"
@@ -841,7 +848,7 @@
        x="449.5"
        y="571.41412" />
     <image
-       y="683.41412"
+       y="697.41412"
        x="449.5"
        id="image8875"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAAAgCAIAAAAT2oadAAAAA3NCSVQICAjb4U/gAAABOklEQVRI ie3WMaqEMBAA0Mn3V7nGWugNTC9o42E8kB5CLfQEyQ20UPAA1gFRcQthWTZBY7JpPn+qEEaemYyD aJ5nsBw/toF/41b8Gj5PKWWMiftpmr7WpucghARBcJ7zhVoRQlzXtWu0bTsMg0WjbdumafZ9t2V8 AAghadH0DRGIoihJErEFNHtXCvi+DwCEkI9kpDETOedZlq3rKgLS0KkVxjhJEsdxVADQO8cR4ziW ZRmG4TlgZAAA5xxjfJmmWivOubipAqgaXdfleT6Oo+IL3Ta6rqvrelmWoij0mAvjAI7vYNu2qqqk RbtnUEqlAAAghMIwVLyDM4MxdjAiEMex53l3AZDOEsbYNE3DMHwFkBsA0Pf9a20IwOWdmwPXxuPx MASujb7v3zvNigFvnaYdRjNRMf7Kv+gTuXSula70j7YAAAAASUVORK5CYII= "
@@ -853,7 +860,7 @@
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAAAgCAIAAAAT2oadAAAAA3NCSVQICAjb4U/gAAABOklEQVRI ie3WMaqEMBAA0Mn3V7nGWugNTC9o42E8kB5CLfQEyQ20UPAA1gFRcQthWTZBY7JpPn+qEEaemYyD aJ5nsBw/toF/41b8Gj5PKWWMiftpmr7WpucghARBcJ7zhVoRQlzXtWu0bTsMg0WjbdumafZ9t2V8 AAghadH0DRGIoihJErEFNHtXCvi+DwCEkI9kpDETOedZlq3rKgLS0KkVxjhJEsdxVADQO8cR4ziW ZRmG4TlgZAAA5xxjfJmmWivOubipAqgaXdfleT6Oo+IL3Ta6rqvrelmWoij0mAvjAI7vYNu2qqqk RbtnUEqlAAAghMIwVLyDM4MxdjAiEMex53l3AZDOEsbYNE3DMHwFkBsA0Pf9a20IwOWdmwPXxuPx MASujb7v3zvNigFvnaYdRjNRMf7Kv+gTuXSula70j7YAAAAASUVORK5CYII= "
        id="image8877"
        x="449.5"
-       y="763.41412" />
+       y="777.41412" />
     <text
        xml:space="preserve"
        style="font-size:13px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
@@ -1003,41 +1010,13 @@
        y="304.82028"
        x="675.21429"
        id="image3751"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB0AAAAcCAIAAAASrSP9AAAAA3NCSVQICAjb4U/gAAACs0lEQVRI
-ibXVy07yQBQA4FNtYbDakMolGje6QSMbFq7dEDEkBAKFt/FhXFNrMCEhqG/AlhAWsFEIBS0Q7i0X
-FyeptYBU8v9nNZ2c+To9nZ5Sk8kE/kPQW6zpdDq9Xo9lWZ7n/43bbrdzuVyj0cBLt9sdCoXcbvdy
-JmW9Dh8fH6IojkYj4yTDMPF4/Pj42JS8swVqt9vD4TDLsgCgaZokSfV6fRvXhCYSCZ/PJwiCka7V
-an9zl1Gv1wsAPM8LgrC3t4f009NTr9ez6q5DMXieTyaTSI/H40KhYMn9/Pz8BV2mjaVY62qa9vj4
-uIwuFgtN04yZDMMwDAMAOzvf2lq3VCphvQghgiDo6PPzczqdHo/HmNbv90VR7Ha7AHB6errZbbVa
-AGCz2RKJhMfjwcmXl5disSjLsiRJSNM0vbu7CwAOhyMQCGx2MVtVVbwBhn7+dZoQEo1GCSHhcJgQ
-8r387u5upTubzcrlMgBUKhWO43DLHo+H47hKpQIAg8FAluWLiwtCiN/vd7lcxuUr9jsYDADg7Ozs
-5OQEZ/L5fLFYxPHl5eXNzQ2O397eqtUqFsGEmN1qtXp/f9/pdCiKikQiemXX0e/v7ysf94erKEo2
-m51MJplMBmtnfGnGJuByuWw2GwBMp9PNbqFQwLz5fI4Dnfb7/cFgENNkWX54eFBVFQD0u5riR/+V
-ZRkAnE5nMpnc39/HSUJIKpWiaZqiKB3F7spx3Pn5+eb94kpVVU1NmWGYZdThcMRiMfzSNrh4PIfD
-oSiKiqKYUk2oIAiHh4crUbN7dXWFZ3s4HKbTaSO9jJoO7G/uwcFBNBrFRzPu+q8orPy/1et1SZKw
-abEse319/fr6+id0tWui9bCOrnUBoNVq5fP5ZrOJl0dHR7e3t06n0wr6m4uhKEq/3+c4zrpoyd06
-vgA7/Jx370mHcwAAAABJRU5ErkJggg==
-"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB0AAAAcCAIAAAASrSP9AAAAA3NCSVQICAjb4U/gAAACs0lEQVRI ibXVy07yQBQA4FNtYbDakMolGje6QSMbFq7dEDEkBAKFt/FhXFNrMCEhqG/AlhAWsFEIBS0Q7i0X FyeptYBU8v9nNZ2c+To9nZ5Sk8kE/kPQW6zpdDq9Xo9lWZ7n/43bbrdzuVyj0cBLt9sdCoXcbvdy JmW9Dh8fH6IojkYj4yTDMPF4/Pj42JS8swVqt9vD4TDLsgCgaZokSfV6fRvXhCYSCZ/PJwiCka7V an9zl1Gv1wsAPM8LgrC3t4f009NTr9ez6q5DMXieTyaTSI/H40KhYMn9/Pz8BV2mjaVY62qa9vj4 uIwuFgtN04yZDMMwDAMAOzvf2lq3VCphvQghgiDo6PPzczqdHo/HmNbv90VR7Ha7AHB6errZbbVa AGCz2RKJhMfjwcmXl5disSjLsiRJSNM0vbu7CwAOhyMQCGx2MVtVVbwBhn7+dZoQEo1GCSHhcJgQ 8r387u5upTubzcrlMgBUKhWO43DLHo+H47hKpQIAg8FAluWLiwtCiN/vd7lcxuUr9jsYDADg7Ozs 5OQEZ/L5fLFYxPHl5eXNzQ2O397eqtUqFsGEmN1qtXp/f9/pdCiKikQiemXX0e/v7ysf94erKEo2 m51MJplMBmtnfGnGJuByuWw2GwBMp9PNbqFQwLz5fI4Dnfb7/cFgENNkWX54eFBVFQD0u5riR/+V ZRkAnE5nMpnc39/HSUJIKpWiaZqiKB3F7spx3Pn5+eb94kpVVU1NmWGYZdThcMRiMfzSNrh4PIfD oSiKiqKYUk2oIAiHh4crUbN7dXWFZ3s4HKbTaSO9jJoO7G/uwcFBNBrFRzPu+q8orPy/1et1SZKw abEse319/fr6+id0tWui9bCOrnUBoNVq5fP5ZrOJl0dHR7e3t06n0wr6m4uhKEq/3+c4zrpoyd06 vgA7/Jx370mHcwAAAABJRU5ErkJggg== "
        height="12.827586"
        width="13.285715" />
     <image
        width="13.285715"
        height="12.827586"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB0AAAAcCAIAAAASrSP9AAAAA3NCSVQICAjb4U/gAAACs0lEQVRI
-ibXVy07yQBQA4FNtYbDakMolGje6QSMbFq7dEDEkBAKFt/FhXFNrMCEhqG/AlhAWsFEIBS0Q7i0X
-FyeptYBU8v9nNZ2c+To9nZ5Sk8kE/kPQW6zpdDq9Xo9lWZ7n/43bbrdzuVyj0cBLt9sdCoXcbvdy
-JmW9Dh8fH6IojkYj4yTDMPF4/Pj42JS8swVqt9vD4TDLsgCgaZokSfV6fRvXhCYSCZ/PJwiCka7V
-an9zl1Gv1wsAPM8LgrC3t4f009NTr9ez6q5DMXieTyaTSI/H40KhYMn9/Pz8BV2mjaVY62qa9vj4
-uIwuFgtN04yZDMMwDAMAOzvf2lq3VCphvQghgiDo6PPzczqdHo/HmNbv90VR7Ha7AHB6errZbbVa
-AGCz2RKJhMfjwcmXl5disSjLsiRJSNM0vbu7CwAOhyMQCGx2MVtVVbwBhn7+dZoQEo1GCSHhcJgQ
-8r387u5upTubzcrlMgBUKhWO43DLHo+H47hKpQIAg8FAluWLiwtCiN/vd7lcxuUr9jsYDADg7Ozs
-5OQEZ/L5fLFYxPHl5eXNzQ2O397eqtUqFsGEmN1qtXp/f9/pdCiKikQiemXX0e/v7ysf94erKEo2
-m51MJplMBmtnfGnGJuByuWw2GwBMp9PNbqFQwLz5fI4Dnfb7/cFgENNkWX54eFBVFQD0u5riR/+V
-ZRkAnE5nMpnc39/HSUJIKpWiaZqiKB3F7spx3Pn5+eb94kpVVU1NmWGYZdThcMRiMfzSNrh4PIfD
-oSiKiqKYUk2oIAiHh4crUbN7dXWFZ3s4HKbTaSO9jJoO7G/uwcFBNBrFRzPu+q8orPy/1et1SZKw
-abEse319/fr6+id0tWui9bCOrnUBoNVq5fP5ZrOJl0dHR7e3t06n0wr6m4uhKEq/3+c4zrpoyd06
-vgA7/Jx370mHcwAAAABJRU5ErkJggg==
-"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB0AAAAcCAIAAAASrSP9AAAAA3NCSVQICAjb4U/gAAACs0lEQVRI ibXVy07yQBQA4FNtYbDakMolGje6QSMbFq7dEDEkBAKFt/FhXFNrMCEhqG/AlhAWsFEIBS0Q7i0X FyeptYBU8v9nNZ2c+To9nZ5Sk8kE/kPQW6zpdDq9Xo9lWZ7n/43bbrdzuVyj0cBLt9sdCoXcbvdy JmW9Dh8fH6IojkYj4yTDMPF4/Pj42JS8swVqt9vD4TDLsgCgaZokSfV6fRvXhCYSCZ/PJwiCka7V an9zl1Gv1wsAPM8LgrC3t4f009NTr9ez6q5DMXieTyaTSI/H40KhYMn9/Pz8BV2mjaVY62qa9vj4 uIwuFgtN04yZDMMwDAMAOzvf2lq3VCphvQghgiDo6PPzczqdHo/HmNbv90VR7Ha7AHB6errZbbVa AGCz2RKJhMfjwcmXl5disSjLsiRJSNM0vbu7CwAOhyMQCGx2MVtVVbwBhn7+dZoQEo1GCSHhcJgQ 8r387u5upTubzcrlMgBUKhWO43DLHo+H47hKpQIAg8FAluWLiwtCiN/vd7lcxuUr9jsYDADg7Ozs 5OQEZ/L5fLFYxPHl5eXNzQ2O397eqtUqFsGEmN1qtXp/f9/pdCiKikQiemXX0e/v7ysf94erKEo2 m51MJplMBmtnfGnGJuByuWw2GwBMp9PNbqFQwLz5fI4Dnfb7/cFgENNkWX54eFBVFQD0u5riR/+V ZRkAnE5nMpnc39/HSUJIKpWiaZqiKB3F7spx3Pn5+eb94kpVVU1NmWGYZdThcMRiMfzSNrh4PIfD oSiKiqKYUk2oIAiHh4crUbN7dXWFZ3s4HKbTaSO9jJoO7G/uwcFBNBrFRzPu+q8orPy/1et1SZKw abEse319/fr6+id0tWui9bCOrnUBoNVq5fP5ZrOJl0dHR7e3t06n0wr6m4uhKEq/3+c4zrpoyd06 vgA7/Jx370mHcwAAAABJRU5ErkJggg== "
        id="image3754"
        x="675.21429"
        y="386.82028" />
@@ -1104,5 +1083,17 @@ vgA7/Jx370mHcwAAAABJRU5ErkJggg==
          x="742.85712"
          sodipodi:role="line"
          id="tspan4009">scrolling if needed</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#cccccc;fill-opacity:1;stroke:none;font-family:Sans"
+       x="390.61478"
+       y="918.22821"
+       id="text4678"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="390.61478"
+         y="918.22821"
+         style="font-size:11px;fill:#cccccc"
+         id="tspan4680">share text en parte fijo para enlace a agoravoting</tspan></text>
   </g>
 </svg>

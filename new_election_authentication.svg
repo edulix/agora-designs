@@ -16,7 +16,7 @@
    id="svg3230"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="import_election.svg">
+   sodipodi:docname="new_election_authentication.svg">
   <defs
      id="defs3232">
     <linearGradient
@@ -36,8 +36,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="421.83689"
-     inkscape:cy="836.81597"
+     inkscape:cx="429.82702"
+     inkscape:cy="931.32556"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -56,7 +56,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -198,7 +198,7 @@
        width="19.250162" />
     <path
        style="fill:#414e60;fill-opacity:1;stroke:none"
-       d="m 88.571428,35.505035 178.571432,0 0,590.174825 -178.571432,0 z"
+       d="m 88.571428,35.505035 178.571432,0 0,850.174825 -178.571432,0 z"
        id="rect8883"
        inkscape:connector-curvature="0" />
     <text
@@ -217,7 +217,7 @@
        style="fill:#f9f9f9;fill-opacity:1;stroke:none"
        id="rect9166"
        width="455.71429"
-       height="589.46057"
+       height="850.88916"
        x="267.85715"
        y="35.933609" />
     <text
@@ -233,7 +233,7 @@
          sodipodi:role="line"
          id="tspan3403">Elections &gt; Current election &gt; <tspan
    style="fill:#00a489"
-   id="tspan3405">Import election from tsv</tspan></tspan></text>
+   id="tspan3405">Authentication</tspan></tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text9172"
@@ -264,7 +264,7 @@
        width="177.96016"
        height="20.968098"
        x="88.873116"
-       y="86.556267"
+       y="226.55627"
        ry="0" />
     <text
        xml:space="preserve"
@@ -382,49 +382,304 @@
     <text
        sodipodi:linespacing="125%"
        id="text9277"
-       y="82.659477"
+       y="90.659477"
        x="278.73016"
        style="font-size:13px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
        xml:space="preserve"><tspan
          style="font-size:11px;fill:#333333"
-         y="82.659477"
+         y="90.659477"
          x="278.73016"
          sodipodi:role="line"
-         id="tspan9281">Importing an election from tsv allows you to manage and automatize the </tspan><tspan
+         id="tspan3502">Authentication is the means used to ensure that an elector is who he says</tspan><tspan
          style="font-size:11px;fill:#333333"
-         y="96.409477"
+         y="104.40948"
          x="278.73016"
          sodipodi:role="line"
-         id="tspan3439">creation of elections details externally. Read more about the TSV election</tspan><tspan
-         style="font-size:11px;fill:#333333"
-         y="110.15948"
-         x="278.73016"
-         sodipodi:role="line"
-         id="tspan3443">format here. If you want to create many elections at once, you can use</tspan><tspan
-         style="font-size:11px;fill:#333333"
-         y="123.90948"
-         x="278.73016"
-         sodipodi:role="line"
-         id="tspan3445">the API or contact us.</tspan></text>
+         id="tspan4069">he is. Here you need to find a balance between security, usability and cost.</tspan></text>
     <rect
-       ry="0"
-       y="136.15912"
-       x="278.98846"
-       height="23.796524"
-       width="405.10303"
-       id="rect9283"
-       style="fill:#00a489;fill-opacity:1;stroke:none" />
+       style="fill:#f2f2f2;fill-opacity:1;stroke:none"
+       id="rect8614"
+       width="432.85715"
+       height="29.285715"
+       x="273.57141"
+       y="130.57646" />
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Sans"
+       x="297.14282"
+       y="149.43359"
+       id="text8608"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan8610"
+         x="297.14282"
+         y="149.43359"
+         style="font-size:14px;fill:#4d4d4d">Configuration</tspan></text>
+    <image
+       width="20.272078"
+       height="13.514719"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAAAWCAIAAADB+WItAAAAA3NCSVQICAjb4U/gAAABEElEQVRI ic3VMaqEMBAG4OwjQT1A1EZsvI2gQs5pIZgcJokgeAkDGrcIWGiMcdmF93fDzPAx1byUUuDH+fs1 8IkhpZRSPlqBj6aFEIwxAEBZlkVReG49uMMAWmutNaXU/xpfYwdMaZhhGL5mCCEopTuwM33f+zD3 hgG2bTu3PJkbwwH4My7jFvBkLg3OuQ/gw9gNzjljzArkeZ5l2SPGYriBqqrqun7EHI1xHN0AhBAh 5GamaXIZaZpijB2AKRFCTdNYGYxxHMcuIwxDQshh6ACYQAjPTJIkhJAgCFzGmbECVsYKAABeVz9q nue2baMougL2LMvSdZ1Sygq4DMNACN3AzqzragVujG/lX/7aD/IGKGnc0gJXW6gAAAAASUVORK5C YII= "
+       id="image3543"
+       x="133.8929"
+       y="-291.06946"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-size:13px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+       x="368.70453"
+       y="185.42633"
+       id="text8046"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan8048"
+         x="368.70453"
+         y="185.42633"
+         style="font-size:12px;text-align:end;text-anchor:end;fill:#333333">Auth Method</tspan></text>
+    <rect
+       style="fill:#b3b3b3;fill-opacity:1;stroke:none"
+       id="rect8054"
+       width="81.051308"
+       height="67.203346"
+       x="380.68466"
+       y="175.82849" />
     <text
        sodipodi:linespacing="125%"
-       id="text9285"
-       y="152.07199"
-       x="444.80811"
-       style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="text8060"
+       y="183.42633"
+       x="480.51508"
+       style="font-size:13px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
        xml:space="preserve"><tspan
-         id="tspan9287"
-         style="font-size:13px;fill:#ffffff"
-         y="152.07199"
-         x="444.80811"
-         sodipodi:role="line">Select file..</tspan></text>
+         style="font-size:12px;fill:#333333"
+         y="183.42633"
+         x="480.51508"
+         id="tspan8062"
+         sodipodi:role="line">External</tspan></text>
+    <rect
+       ry="2.6179042"
+       y="330.41693"
+       x="371.55008"
+       height="82.890923"
+       width="324.87604"
+       id="rect8072"
+       style="fill:#ffffff;stroke:#efefef;stroke-width:1.47641253;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <text
+       xml:space="preserve"
+       style="font-size:13px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+       x="480.51508"
+       y="199.42633"
+       id="text8076"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="480.51508"
+         y="199.42633"
+         style="font-size:11px;fill:#b3b3b3"
+         id="tspan3696">Not managed here. To do this, you </tspan><tspan
+         sodipodi:role="line"
+         x="480.51508"
+         y="213.17633"
+         style="font-size:11px;fill:#b3b3b3"
+         id="tspan3700">need to learn <tspan
+   style="fill:#003380"
+   id="tspan3716">how to do the </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="480.51508"
+         y="226.92633"
+         style="font-size:11px;fill:#b3b3b3"
+         id="tspan3702"><tspan
+   style="fill:#003380"
+   id="tspan3726">integration</tspan> or <tspan
+   style="fill:#003380"
+   id="tspan3718">contact us</tspan> to help you.</tspan></text>
+    <rect
+       y="337.82849"
+       x="380.68466"
+       height="67.203346"
+       width="81.051308"
+       id="rect8090"
+       style="fill:#b3b3b3;fill-opacity:1;stroke:none" />
+    <text
+       xml:space="preserve"
+       style="font-size:13px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00a489;fill-opacity:1;stroke:none;font-family:Sans"
+       x="480.51508"
+       y="345.42639"
+       id="text8092"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan8094"
+         x="480.51508"
+         y="345.42639"
+         style="font-size:12px;fill:#00a489;fill-opacity:1">SMS</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text8096"
+       y="361.42639"
+       x="480.51508"
+       style="font-size:13px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan8104"
+         style="font-size:11px;fill:#b3b3b3"
+         y="361.42639"
+         x="480.51508"
+         sodipodi:role="line">Users authenticate by providing</tspan><tspan
+         style="font-size:11px;fill:#b3b3b3"
+         y="375.17639"
+         x="480.51508"
+         sodipodi:role="line"
+         id="tspan4086">a telephone number whose ownership</tspan><tspan
+         style="font-size:11px;fill:#b3b3b3"
+         y="388.92639"
+         x="480.51508"
+         sodipodi:role="line"
+         id="tspan3743">is checked sending an SMS message </tspan><tspan
+         style="font-size:11px;fill:#b3b3b3"
+         y="402.67639"
+         x="480.51508"
+         sodipodi:role="line"
+         id="tspan4103">with a code. <tspan
+   style="fill:#003380"
+   id="tspan3745">Learn more..</tspan></tspan></text>
+    <rect
+       y="255.82849"
+       x="380.68466"
+       height="67.203346"
+       width="81.051308"
+       id="rect3747"
+       style="fill:#b3b3b3;fill-opacity:1;stroke:none" />
+    <text
+       xml:space="preserve"
+       style="font-size:13px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+       x="480.51508"
+       y="263.42633"
+       id="text3749"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3751"
+         x="480.51508"
+         y="263.42633"
+         style="font-size:12px;fill:#333333">Email links</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3753"
+       y="279.42633"
+       x="480.51508"
+       style="font-size:13px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:11px;fill:#b3b3b3"
+         y="279.42633"
+         x="480.51508"
+         sodipodi:role="line"
+         id="tspan3777">An email is sent to each elector with</tspan><tspan
+         style="font-size:11px;fill:#b3b3b3"
+         y="293.17633"
+         x="480.51508"
+         sodipodi:role="line"
+         id="tspan4080">a unique link that lets them</tspan><tspan
+         style="font-size:11px;fill:#b3b3b3"
+         y="306.92633"
+         x="480.51508"
+         sodipodi:role="line"
+         id="tspan4083">authenticate and vote. <tspan
+   id="tspan3765"
+   style="fill:#003380">Learn more..</tspan></tspan></text>
+    <rect
+       y="454.57648"
+       x="273.57141"
+       height="29.285715"
+       width="432.85715"
+       id="rect4038"
+       style="fill:#f2f2f2;fill-opacity:1;stroke:none" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4040"
+       y="473.43359"
+       x="297.14282"
+       style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:14px;fill:#4d4d4d"
+         y="473.43359"
+         x="297.14282"
+         id="tspan4042"
+         sodipodi:role="line">SMS authentication</tspan></text>
+    <image
+       transform="matrix(0,1,-1,0,0,0)"
+       y="-291.06946"
+       x="457.89288"
+       id="image4046"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAAAWCAIAAADB+WItAAAAA3NCSVQICAjb4U/gAAABEElEQVRI ic3VMaqEMBAG4OwjQT1A1EZsvI2gQs5pIZgcJokgeAkDGrcIWGiMcdmF93fDzPAx1byUUuDH+fs1 8IkhpZRSPlqBj6aFEIwxAEBZlkVReG49uMMAWmutNaXU/xpfYwdMaZhhGL5mCCEopTuwM33f+zD3 hgG2bTu3PJkbwwH4My7jFvBkLg3OuQ/gw9gNzjljzArkeZ5l2SPGYriBqqrqun7EHI1xHN0AhBAh 5GamaXIZaZpijB2AKRFCTdNYGYxxHMcuIwxDQshh6ACYQAjPTJIkhJAgCFzGmbECVsYKAABeVz9q nue2baMougL2LMvSdZ1Sygq4DMNACN3AzqzragVujG/lX/7aD/IGKGnc0gJXW6gAAAAASUVORK5C YII= "
+       height="13.514719"
+       width="20.272078" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text8050"
+       y="502.46423"
+       x="374.10867"
+       style="font-size:13px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:11px;fill:#b3b3b3"
+         y="502.46423"
+         x="374.10867"
+         sodipodi:role="line"
+         id="tspan8165">Template used in the SMS sent to the user. Use {{code}} </tspan><tspan
+         style="font-size:11px;fill:#b3b3b3"
+         y="516.21423"
+         x="374.10867"
+         sodipodi:role="line"
+         id="tspan4159">to insert the SMS code sent to the user.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+       x="278.10867"
+       y="504.46423"
+       id="text8127"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan8129"
+         x="278.10867"
+         y="504.46423"
+         style="font-size:12px;fill:#333333">SMS message</tspan></text>
+    <rect
+       ry="0"
+       y="528.67572"
+       x="374.43665"
+       height="41.921329"
+       width="318.4137"
+       id="rect8131"
+       style="fill:#ffffff;stroke:#bbbbbb;stroke-width:0.5;stroke-miterlimit:4;stroke-opacity:0.41062802;stroke-dasharray:none" />
+    <g
+       id="g3476"
+       transform="translate(-10.506115,-301.76397)">
+      <rect
+         style="fill:#00a489;fill-opacity:1;stroke:none"
+         id="rect8147"
+         width="315.81729"
+         height="29.539526"
+         x="386.87311"
+         y="884.55627"
+         ry="0" />
+      <text
+         xml:space="preserve"
+         style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="460.57141"
+         y="902.93359"
+         id="text8149"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="460.57141"
+           y="902.93359"
+           style="font-size:13px;fill:#ffffff"
+           id="tspan8151">Continue election creation</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:13px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#cccccc;fill-opacity:1;stroke:none;font-family:Sans"
+       x="380.10867"
+       y="544.46423"
+       id="text4678"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="380.10867"
+         y="544.46423"
+         style="font-size:11px;fill:#cccccc"
+         id="tspan4680">en parte fijo para mencionar a agoravoting</tspan></text>
   </g>
 </svg>

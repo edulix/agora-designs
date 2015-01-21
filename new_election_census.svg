@@ -36,8 +36,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="412.65514"
-     inkscape:cy="460.96841"
+     inkscape:cx="498.31023"
+     inkscape:cy="349.11232"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -198,7 +198,7 @@
        width="19.250162" />
     <path
        style="fill:#414e60;fill-opacity:1;stroke:none"
-       d="m 88.571428,35.505035 178.571432,0 0,850.174825 -178.571432,0 z"
+       d="m 88.571428,35.505035 178.571432,0 0,1192.317665 -178.571432,0 z"
        id="rect8883"
        inkscape:connector-curvature="0" />
     <text
@@ -217,7 +217,7 @@
        style="fill:#f9f9f9;fill-opacity:1;stroke:none"
        id="rect9166"
        width="455.71429"
-       height="850.88916"
+       height="1193.7463"
        x="267.85715"
        y="35.933609" />
     <text
@@ -654,10 +654,10 @@
          x="760.51508"
          y="97.426331"
          style="font-size:12px;fill:#333333"
-         id="tspan3792">Send mails</tspan></text>
+         id="tspan3792">Send notification</tspan></text>
     <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 747.85715,54.505036 c 0,35.238095 0,70.476194 0,105.714284 0,10.96469 -0.34392,21.92239 0.71428,32.85714 0.34706,3.58629 1.03068,7.13329 1.42857,10.71429 0.31662,2.84951 0.33537,5.72953 0.71429,8.57143 0.0995,0.74632 0.65176,1.39253 0.71428,2.14286 0.17796,2.13545 -0.194,4.29451 0,6.42857 0.0482,0.53021 0.60988,0.90651 0.71429,1.42857 0.37646,1.88231 0.52328,3.80423 0.71429,5.71429 0.0135,0.13511 -0.014,2.81521 0,2.85714 0.10648,0.31944 0.5637,0.41311 0.71428,0.71428 0.0939,0.18782 0,2.48363 0,2.85715"
+       style="fill:none;stroke:#000000;stroke-width:0.53164816px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 747.85715,54.505036 c 0,9.960039 0,19.92008 0,29.880118 0,3.099167 -0.34392,6.196359 0.71428,9.287063 0.34706,1.013664 1.03068,2.016223 1.42857,3.028392 0.31662,0.805413 0.33537,1.61945 0.71429,2.422713 0.0995,0.210947 0.65176,0.393598 0.71428,0.605678 0.17796,0.60358 -0.194,1.21384 0,1.81703 0.0482,0.14987 0.60988,0.25623 0.71429,0.40379 0.37646,0.53203 0.52328,1.07526 0.71429,1.61514 0.0135,0.0382 -0.014,0.79572 0,0.80757 0.10648,0.0903 0.5637,0.11677 0.71428,0.20189 0.0939,0.0531 0,0.702 0,0.80758"
        id="path3784"
        inkscape:connector-curvature="0" />
     <path
@@ -670,69 +670,49 @@
        id="rect3756"
        width="120.09227"
        height="19.064182"
-       x="280.22174"
-       y="495.83008"
+       x="282.22174"
+       y="909.83008"
        ry="0" />
     <text
        xml:space="preserve"
        style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none;font-family:Sans"
-       x="285.94769"
-       y="508.25424"
+       x="287.94769"
+       y="922.25427"
        id="text5006"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5008"
-         x="285.94769"
-         y="508.25424"
+         x="287.94769"
+         y="922.25427"
          style="font-size:10px">Filter..</tspan></text>
     <image
-       y="498.52823"
-       x="383.50433"
+       y="912.5282"
+       x="385.50433"
        id="image5018"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB8AAAAeCAIAAABbkFLLAAAAA3NCSVQICAjb4U/gAAAC0ElEQVRI ibWWP0h6URTHz/35yISHqEMJImEoQhA9cIhMJTBXVxf/LAkNFjREhBItFdEQ1NKqUjjl4lSNgoF/ Kmh4ZVODiUUhPVCRvL/hxsVM3zPQ73TOfed87r3nvnO5CGMMQ9O/4aGHTmckI5rN5vPz8/v7OwBo NBq9Xj8yMjIAOs/ziUQin8/X63U6KJfLLRaLx+OZmpqSpKOup9poNI6Oji4uLkQynU7n2tqaXC7/ G10QhI2NjcfHRzrCsuzY2BgAVCoVQRDouNFoPDg4YFm2X/rX19fm5ubNzQ1xZ2Zm/H7/9PQ0QggA MMb39/exWOz29pYEcBy3t7fHMN0rLNve3m73z8/PU6kUsb1e7/r6ularJWgAQAiNj4+7XC6E0N3d HQCUy2WWZXudwY8/slarnZ2dEdvtdgcCAcr9sV+EfD6f2+0m7unpaa1Wk6Zns9nPz08AUKvVwWCw awLV0tKSSqUCAEEQcrmcNJ1Wc2FhYXR0VJyuUCgcDkdHohj99fWVGCaTSRxNZDQaOxLF6LRrFApF P3Qa1lfd1Wq1+Fo69Pb2RgylUilNn5iYIEavU+oQDaMlEqPPzc0RI5vNtvdqV/E8XygUiG21WqXp k5OTHMcBAMZ4Z2enWq32Qler1d3dXdLnFouFblqMDgDLy8ukrUul0urqarFY/J1TLBZXVlZeXl7E Fw5db7Grq6v9/f3vzwjNzs5arVatVgsA5XI5k8lcX1+3ZzEMs7W1RasqQQeAy8vLw8PDZrPZa1Ed YhgmEonMz8/3RQeAp6enk5MTclX9FsdxBoMhmUyKT9CTTsTzfCaTeXh4+Pj4aLVaGo3GbDY7HA7y C8ZisXg83j5BOBy22Wz90iXVMYFMJguHw3a7fTD0rhMcHx+Tm2oALw6/3+/z+ahrMpl0Ot23gwek aDS6uLgYCoUEQaCDA6NjjNPpdDsaYzyAuotouC+9/7T81PD3CAmgAAAAAElFTkSuQmCC "
        height="13.305802"
        width="13.749331" />
     <rect
-       style="fill:#00a489;fill-opacity:1;stroke:none"
-       id="rect4026"
-       width="87.245872"
-       height="18.082239"
-       x="606.16278"
-       y="496.32111"
-       ry="0" />
-    <text
-       sodipodi:linespacing="125%"
-       id="text4028"
-       y="508.25424"
-       x="621.94769"
-       style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
-       xml:space="preserve"><tspan
-         style="font-size:10px;fill:#ffffff"
-         y="508.25424"
-         x="621.94769"
-         id="tspan4030"
-         sodipodi:role="line">Add column</tspan></text>
-    <rect
        style="fill:#ffffff;fill-opacity:1;stroke:none"
        id="rect4032"
        width="415.71429"
        height="172.85715"
-       x="280"
-       y="526.64789" />
+       x="282"
+       y="940.64789" />
     <text
        xml:space="preserve"
        style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="478.57144"
-       y="615.2193"
+       x="480.57144"
+       y="1029.2192"
        id="text4034"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4036"
-         x="478.57144"
-         y="615.2193">Table</tspan></text>
+         x="480.57144"
+         y="1029.2192">Table</tspan></text>
     <rect
-       y="454.57648"
-       x="273.57141"
+       y="868.57648"
+       x="275.57141"
        height="29.285715"
        width="432.85715"
        id="rect4038"
@@ -740,27 +720,27 @@
     <text
        sodipodi:linespacing="125%"
        id="text4040"
-       y="473.43359"
-       x="297.14282"
+       y="887.43359"
+       x="299.14282"
        style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Sans"
        xml:space="preserve"><tspan
          style="font-size:14px;fill:#4d4d4d"
-         y="473.43359"
-         x="297.14282"
+         y="887.43359"
+         x="299.14282"
          id="tspan4042"
          sodipodi:role="line">Manage census</tspan></text>
     <image
        transform="matrix(0,1,-1,0,0,0)"
-       y="-291.06946"
-       x="457.89288"
+       y="-293.06946"
+       x="871.89288"
        id="image4046"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAAAWCAIAAADB+WItAAAAA3NCSVQICAjb4U/gAAABEElEQVRI ic3VMaqEMBAG4OwjQT1A1EZsvI2gQs5pIZgcJokgeAkDGrcIWGiMcdmF93fDzPAx1byUUuDH+fs1 8IkhpZRSPlqBj6aFEIwxAEBZlkVReG49uMMAWmutNaXU/xpfYwdMaZhhGL5mCCEopTuwM33f+zD3 hgG2bTu3PJkbwwH4My7jFvBkLg3OuQ/gw9gNzjljzArkeZ5l2SPGYriBqqrqun7EHI1xHN0AhBAh 5GamaXIZaZpijB2AKRFCTdNYGYxxHMcuIwxDQshh6ACYQAjPTJIkhJAgCFzGmbECVsYKAABeVz9q nue2baMougL2LMvSdZ1Sygq4DMNACN3AzqzragVujG/lX/7aD/IGKGnc0gJXW6gAAAAASUVORK5C YII= "
        height="13.514719"
        width="20.272078" />
     <rect
        ry="0"
-       y="711.16382"
-       x="279.94852"
+       y="1125.1638"
+       x="281.94852"
        height="29.539526"
        width="417.24585"
        id="rect8147"
@@ -768,14 +748,381 @@
     <text
        sodipodi:linespacing="125%"
        id="text8149"
-       y="729.54114"
-       x="402.93253"
+       y="1143.541"
+       x="404.93253"
        style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        xml:space="preserve"><tspan
          id="tspan8151"
          style="font-size:13px;fill:#ffffff"
-         y="729.54114"
-         x="402.93253"
+         y="1143.541"
+         x="404.93253"
          sodipodi:role="line">Continue election creation</tspan></text>
+    <rect
+       y="456.62735"
+       x="277.28571"
+       height="29.285715"
+       width="432.85715"
+       id="rect4038-9"
+       style="fill:#f2f2f2;fill-opacity:1;stroke:none" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4040-5"
+       y="475.48447"
+       x="300.85712"
+       style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:14px;fill:#4d4d4d"
+         y="475.48447"
+         x="300.85712"
+         id="tspan4042-8"
+         sodipodi:role="line">Extra fields</tspan></text>
+    <image
+       transform="matrix(0,1,-1,0,0,0)"
+       y="-294.78375"
+       x="459.94376"
+       id="image4046-3"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAAAWCAIAAADB+WItAAAAA3NCSVQICAjb4U/gAAABEElEQVRI ic3VMaqEMBAG4OwjQT1A1EZsvI2gQs5pIZgcJokgeAkDGrcIWGiMcdmF93fDzPAx1byUUuDH+fs1 8IkhpZRSPlqBj6aFEIwxAEBZlkVReG49uMMAWmutNaXU/xpfYwdMaZhhGL5mCCEopTuwM33f+zD3 hgG2bTu3PJkbwwH4My7jFvBkLg3OuQ/gw9gNzjljzArkeZ5l2SPGYriBqqrqun7EHI1xHN0AhBAh 5GamaXIZaZpijB2AKRFCTdNYGYxxHMcuIwxDQshh6ACYQAjPTJIkhJAgCFzGmbECVsYKAABeVz9q nue2baMougL2LMvSdZ1Sygq4DMNACN3AzqzragVujG/lX/7aD/IGKGnc0gJXW6gAAAAASUVORK5C YII= "
+       height="13.514719"
+       width="20.272078" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text8050"
+       y="586.51514"
+       x="377.82297"
+       style="font-size:13px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:11px;fill:#b3b3b3"
+         y="586.51514"
+         x="377.82297"
+         sodipodi:role="line"
+         id="tspan3358">An admin provided help text</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+       x="281.82297"
+       y="586.51514"
+       id="text8127"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan8129"
+         x="281.82297"
+         y="586.51514"
+         style="font-size:12px;fill:#333333">Whatever field</tspan></text>
+    <rect
+       ry="0"
+       y="598.72662"
+       x="378.15094"
+       height="23.578156"
+       width="318.4137"
+       id="rect8131"
+       style="fill:#cccccc;stroke:#bbbbbb;stroke-width:0.37497937999999997;stroke-miterlimit:4;stroke-opacity:0.41062801999999998;stroke-dasharray:none" />
+    <text
+       xml:space="preserve"
+       style="font-size:13px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       x="383.82297"
+       y="614.51514"
+       id="text4678"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="383.82297"
+         y="614.51514"
+         style="font-size:11px;fill:#ffffff"
+         id="tspan4680" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+       x="278.73016"
+       y="502.65948"
+       id="text3564"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="278.73016"
+         y="502.65948"
+         style="font-size:11px;fill:#333333"
+         id="tspan3572">Here you can define extra fields in the census in a versatile way. This allows</tspan><tspan
+         sodipodi:role="line"
+         x="278.73016"
+         y="516.40948"
+         style="font-size:11px;fill:#333333"
+         id="tspan3578">you to do a range of things: adding extra checks against census in closed </tspan><tspan
+         sodipodi:role="line"
+         x="278.73016"
+         y="530.15948"
+         style="font-size:11px;fill:#333333"
+         id="tspan3582">registration, registering new fields in open registration, etc. <tspan
+   style="fill:#003380"
+   id="tspan3584">Learn more..</tspan></tspan></text>
+    <rect
+       style="fill:#00a489;fill-opacity:1;stroke:none"
+       id="rect3588"
+       width="177.96016"
+       height="23.796524"
+       x="526.16278"
+       y="542.60681"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       x="591.98242"
+       y="558.51965"
+       id="text3590"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="591.98242"
+         y="558.51965"
+         style="font-size:13px;fill:#ffffff"
+         id="tspan3592">Add field</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 693.57143,584.50504 c 3.33333,0 6.66667,0 10,0 1.66667,0 3.37302,0.36155 5,0 0.6574,-0.14609 0.78969,-1.21561 1.42857,-1.42857 1.66667,-0.2381 3.33333,-0.47619 5,-0.71429 0.2381,-0.47619 0.2381,-1.19047 0.71429,-1.42857 1.55036,-0.77518 3.64647,-0.34575 5,-1.42857 1.24719,-0.99776 0.79536,-3.42822 2.14285,-4.28571 1.61948,-1.03058 3.89321,-0.10726 5.71429,-0.71429 0.50507,-0.16836 0.33782,-1.05211 0.71428,-1.42857 0.37647,-0.37646 1.00266,-0.39485 1.42858,-0.71429 0.53874,-0.40406 0.88982,-1.02451 1.42857,-1.42857 0.42591,-0.31944 1.05211,-0.33782 1.42857,-0.71428 0.37646,-0.37647 0.41896,-0.98559 0.71428,-1.42858 0.37356,-0.56033 1.05502,-0.86824 1.42858,-1.42857 1.51869,-2.27803 0.0372,-0.90041 0.71428,-4.28571 0.066,-0.33018 0.5637,-0.41312 0.71429,-0.71429 0.10648,-0.21296 -0.0467,-0.48081 0,-0.71428 0.19252,-0.96263 0.52176,-1.89452 0.71428,-2.85715 0.0467,-0.23347 -0.10648,-0.50132 0,-0.71428 0.15059,-0.30117 0.64825,-0.38411 0.71429,-0.71429 0.18678,-0.93388 -0.18678,-1.92325 0,-2.85714 0.066,-0.33018 0.5637,-0.41312 0.71428,-0.71429 0.10648,-0.21295 -0.10648,-0.50132 0,-0.71428 0.30117,-0.60234 1.12741,-0.82623 1.42858,-1.42857 0,-1.90477 -0.2381,0.23809 0.71428,-0.71429 0.95238,-0.95238 -1.19047,-0.71428 0.71429,-0.71428"
+       id="path3596"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="742.85712"
+       y="545.21936"
+       id="text3598"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3600"
+         x="742.85712"
+         y="545.21936">see how google forms work:</tspan><tspan
+         sodipodi:role="line"
+         x="742.85712"
+         y="555.21936"
+         id="tspan3602">by default, fields can be</tspan><tspan
+         sodipodi:role="line"
+         x="742.85712"
+         y="565.21936"
+         id="tspan3604">rearranged on drag and drop</tspan><tspan
+         sodipodi:role="line"
+         x="742.85712"
+         y="575.21936"
+         id="tspan3606">and editted on click</tspan></text>
+    <rect
+       style="fill:#f2f2f2;fill-opacity:1;stroke:none"
+       id="rect3608"
+       width="455.71429"
+       height="210"
+       x="268.42856"
+       y="632.79077" />
+    <text
+       xml:space="preserve"
+       style="font-size:13px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+       x="362.5936"
+       y="668.9809"
+       id="text8127-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan8129-5"
+         x="362.5936"
+         y="668.9809"
+         style="font-size:12px;text-align:end;text-anchor:end;fill:#333333">Field name</tspan></text>
+    <rect
+       ry="0"
+       y="659.19238"
+       x="377.81219"
+       height="23.578156"
+       width="318.4137"
+       id="rect8131-3"
+       style="fill:#ffffff;stroke:#bbbbbb;stroke-width:0.37497938;stroke-miterlimit:4;stroke-opacity:0.41062802;stroke-dasharray:none" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3661"
+       y="708.9809"
+       x="362.5936"
+       style="font-size:13px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:12px;text-align:end;text-anchor:end;fill:#333333"
+         y="708.9809"
+         x="362.5936"
+         id="tspan3663"
+         sodipodi:role="line">Help text</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#bbbbbb;stroke-width:0.37497938;stroke-miterlimit:4;stroke-opacity:0.41062802;stroke-dasharray:none"
+       id="rect3665"
+       width="318.4137"
+       height="23.578156"
+       x="377.81219"
+       y="699.19238"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="709"
+       y="646.50507"
+       id="text3669"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3671"
+         x="709"
+         y="646.50507"
+         style="font-size:14px">x</tspan></text>
+    <rect
+       style="fill:#e6e6e6;fill-opacity:1;stroke:none"
+       id="rect3673"
+       width="86.368042"
+       height="1.5152289"
+       x="456.38589"
+       y="636.68439" />
+    <rect
+       y="639.32727"
+       x="456.38589"
+       height="1.5152289"
+       width="86.368042"
+       id="rect3675"
+       style="fill:#e6e6e6;fill-opacity:1;stroke:none" />
+    <rect
+       style="fill:#e6e6e6;fill-opacity:1;stroke:none"
+       id="rect3677"
+       width="86.368042"
+       height="1.5152289"
+       x="456.38589"
+       y="641.97009" />
+    <text
+       xml:space="preserve"
+       style="font-size:13px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+       x="362.5936"
+       y="748.9809"
+       id="text3679"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3681"
+         x="362.5936"
+         y="748.9809"
+         style="font-size:12px;text-align:end;text-anchor:end;fill:#333333">Field type</tspan></text>
+    <rect
+       ry="0"
+       y="739.19238"
+       x="377.81219"
+       height="23.578156"
+       width="318.4137"
+       id="rect3683"
+       style="fill:#ffffff;stroke:#bbbbbb;stroke-width:0.37497938;stroke-miterlimit:4;stroke-opacity:0.41062802;stroke-dasharray:none" />
+    <path
+       transform="matrix(0.17793641,0,0,0.17793641,557.15158,736.35223)"
+       inkscape:transform-center-y="1.5019083"
+       inkscape:transform-center-x="-0.063546545"
+       d="m 714.28571,115.93361 -14.17028,-26.806696 -15.06918,-26.311897 30.30042,1.131525 30.32136,0.105657 -16.13014,25.675173 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="2.6383992"
+       sodipodi:arg1="1.5912017"
+       sodipodi:r2="16.990604"
+       sodipodi:r1="35.00729"
+       sodipodi:cy="80.933609"
+       sodipodi:cx="715"
+       sodipodi:sides="3"
+       id="path3685"
+       style="fill:#333333;fill-opacity:1;stroke:none"
+       sodipodi:type="star" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 690,745.93361 c 4.7619,0 9.52381,0 14.28571,0 1.90477,0 3.81898,0.18953 5.71429,0 0.52975,-0.053 0.91207,-0.58516 1.42857,-0.71428 1.40504,-0.35126 2.92965,-0.20577 4.28572,-0.71429 0.63055,-0.23646 0.8511,-1.08209 1.42857,-1.42857 0.64562,-0.38738 1.42857,-0.47619 2.14285,-0.71429 1.42858,-0.47619 2.97828,-0.68146 4.28572,-1.42857 0.46225,-0.26414 0.33782,-1.05211 0.71428,-1.42857 0.37647,-0.37646 1.00266,-0.39485 1.42858,-0.71429 0.53874,-0.40406 0.95238,-0.95238 1.42857,-1.42857 0.47619,-0.47619 1.1274,-0.82623 1.42857,-1.42857 0.43902,-0.87805 0.20921,-2.01535 0.71428,-2.85714 0.27392,-0.45653 1.05211,-0.33783 1.42858,-0.71429 0.37646,-0.37646 0.47619,-0.95238 0.71428,-1.42857 0.47619,-0.95238 0.95238,-1.90476 1.42857,-2.85714 0.2381,-0.47619 0.54593,-0.9235 0.71429,-1.42857 0.62087,-1.86263 0.8644,-3.83371 1.42857,-5.71429 0.4327,-1.44234 1.1592,-2.80416 1.42857,-4.28571 0.21296,-1.17128 -0.16836,-2.39292 0,-3.57143 0.0753,-0.52705 0.54593,-0.9235 0.71429,-1.42857 0.54813,-1.64441 1.1185,-3.2946 1.42857,-5 0,-6.44903 -0.42592,-0.29501 0.71428,-4.28572 0.33353,-1.16734 0.5426,-2.36958 0.71429,-3.57143 0.50226,-3.5158 -1.3739,1.26456 0.71429,-5 0.10648,-0.31943 0.6078,-0.39484 0.71428,-0.71428 0.15059,-0.45176 -0.0934,-0.96163 0,-1.42857 0.78958,-3.94789 0.71429,-0.89056 0.71429,-2.85715 0,-1.66666 0,-3.33333 0,-5 0,-0.23809 0,-0.47619 0,-0.71428 0,-0.2381 -0.2381,-0.71429 0,-0.71429 0.23809,0 0,0.47619 0,0.71429 0,0.95238 0,1.90476 0,2.85714 0,1.66667 0,3.33333 0,5 0,6.90476 0,13.80952 0,20.71429 0,7.85714 0,15.71428 0,23.57143 0,2.61904 0,5.23809 0,7.85714 0,0.78758 -0.12833,3.7724 0,4.28571 0.0817,0.32667 0.6078,0.39485 0.71428,0.71429 0.15059,0.45175 -0.15058,0.97682 0,1.42857 0.10648,0.31944 0.60781,0.39485 0.71429,0.71429 0.15058,0.45175 0,0.95238 0,1.42857 0,0.23809 -0.10648,0.50132 0,0.71428 0.15058,0.30117 0.6078,0.39485 0.71428,0.71429 0.1723,0.51689 -0.23545,2.62169 0,2.85714 0.16836,0.16836 0.54593,-0.16836 0.71429,0 0.16836,0.16836 0,0.47619 0,0.71429 0,0.23809 0,0.47619 0,0.71428"
+       id="path3687"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="747.85712"
+       y="691.64789"
+       id="text3689"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3691"
+         x="747.85712"
+         y="691.64789">text</tspan><tspan
+         sodipodi:role="line"
+         x="747.85712"
+         y="701.64789"
+         id="tspan3693">number</tspan><tspan
+         sodipodi:role="line"
+         x="747.85712"
+         y="711.64789"
+         id="tspan3695">regexp</tspan><tspan
+         sodipodi:role="line"
+         x="747.85712"
+         y="721.64789"
+         id="tspan3697">email</tspan><tspan
+         sodipodi:role="line"
+         x="747.85712"
+         y="731.64789"
+         id="tspan3701">date</tspan><tspan
+         sodipodi:role="line"
+         x="747.85712"
+         y="741.64789"
+         id="tspan3699">bool</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3209"
+       y="788.44928"
+       x="400.84698"
+       style="font-size:13px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:12px;text-align:start;text-anchor:start;fill:#333333"
+         y="788.44928"
+         x="400.84698"
+         sodipodi:role="line"
+         id="tspan3211">Checked against census in authentication</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#cdcdcd;stroke-opacity:1"
+       id="rect4411"
+       width="15"
+       height="16.428572"
+       x="378.93362"
+       y="777.85297" />
+    <text
+       xml:space="preserve"
+       style="font-size:13px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
+       x="400.84698"
+       y="814.44928"
+       id="text4049"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan4051"
+         sodipodi:role="line"
+         x="400.84698"
+         y="814.44928"
+         style="font-size:12px;text-align:start;text-anchor:start;fill:#333333">Required on registration</tspan></text>
+    <rect
+       y="803.85297"
+       x="378.93362"
+       height="16.428572"
+       width="15"
+       id="rect4053"
+       style="fill:#ffffff;fill-opacity:1;stroke:#cdcdcd;stroke-opacity:1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 539.28571,638.07647 c 3.7925,-1.517 2.28925,-1.42857 4.28572,-1.42857 0.47619,0 0.97682,0.15058 1.42857,0 0.31944,-0.10648 0.38762,-0.63262 0.71429,-0.71429 1.63332,-0.40833 3.34524,-0.40402 5,-0.71428 1.70282,-0.31928 15.61571,-3.53744 15.71428,-3.57143 3.93101,-1.35552 7.42212,-3.8871 11.42857,-5 4.63951,-1.28876 9.62076,-0.9495 14.28572,-2.14286 5.61711,-1.43694 10.78313,-4.39301 16.42857,-5.71429 5.60723,-1.31233 11.45457,-1.2447 17.14286,-2.14285 3.36728,-0.53168 6.66519,-1.43548 10,-2.14286 4.52235,-0.95929 9.02903,-1.99777 13.57142,-2.85714 4.26911,-0.80767 8.65301,-1.04613 12.85715,-2.14286 1.34336,-0.35044 2.20808,-1.88068 3.57143,-2.14286 4.36535,-0.83949 20.10657,-1.75612 25.71428,-2.14285 3.33333,-0.2381 6.66667,-0.4762 10,-0.71429 0.2381,-0.2381 0.37924,-0.68078 0.71429,-0.71429 3.07987,-0.30798 6.19047,0 9.28571,0 5,0 10,0 15,0 2.38095,0 4.76191,0 7.14286,0 0.47619,0 0.9666,-0.11549 1.42857,0 0.5165,0.12913 0.90342,0.62676 1.42857,0.71429 1.86284,0.31047 3.84613,-0.26688 5.71429,0 1.20185,0.17169 2.37389,0.5147 3.57143,0.71429 0.23485,0.0391 0.4884,-0.0753 0.71428,0 0.50508,0.16835 0.91207,0.58516 1.42857,0.71428 0.46198,0.11549 0.9666,-0.11549 1.42857,0 0.51651,0.12913 0.91207,0.58516 1.42858,0.71429 0.46197,0.11549 0.97681,-0.15059 1.42857,0 0.31944,0.10648 0.43412,0.52751 0.71428,0.71428 0.44298,0.29532 0.9235,0.54593 1.42857,0.71429 0.45176,0.15058 1.00266,-0.21296 1.42858,0 0.30117,0.15058 0.41311,0.5637 0.71428,0.71428 0.21296,0.10648 0.54593,-0.16835 0.71429,0 0.16836,0.16836 -0.16836,0.54593 0,0.71429 1.47788,1.47788 -0.0578,-2.2584 1.42857,0.71429 0.10648,0.21295 -0.10648,0.50132 0,0.71428 0.15058,0.30117 0.47619,0.47619 0.71428,0.71429 0.2381,0.23809 0.41312,0.5637 0.71429,0.71428 0.21296,0.10648 0.54593,-0.16836 0.71429,0 0.16835,0.16836 -0.10648,0.50133 0,0.71429 0.30117,0.60234 1.1274,0.82623 1.42857,1.42857 0.10648,0.21296 -0.16836,0.54593 0,0.71429 0.95238,0.95238 0.71428,-1.19048 0.71428,0.71428"
+       id="path4055"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="767.85712"
+       y="623.79077"
+       id="text4057"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4059"
+         x="767.85712"
+         y="623.79077">allows to move using dnd</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 545.71429,807.36218 c 2.14285,0 4.28571,0 6.42857,0 0.47619,0 0.95716,-0.0673 1.42857,0 1.20185,0.1717 2.37389,0.5147 3.57143,0.71429 0.23485,0.0391 0.47803,-0.0295 0.71428,0 1.67059,0.20882 3.31832,0.6342 5,0.71428 3.32956,0.15855 6.66667,0 10,0 4.28572,0.2381 8.57076,0.48869 12.85715,0.71429 4.76126,0.25059 9.51915,0.60344 14.28571,0.71429 5.47471,0.12731 10.95238,0 16.42857,0 6.19048,0 12.38095,0 18.57143,0 13.33333,0 26.66667,0 40,0 14.77207,0 29.53344,0.30311 44.28571,-0.71429 1.44485,-0.0996 2.84797,-0.54001 4.28572,-0.71429 6.42113,-0.77832 12.85714,-1.42857 19.28571,-2.14285 4.28572,-0.47619 8.5884,-0.81875 12.85715,-1.42857 0.74535,-0.10648 1.39215,-0.65654 2.14285,-0.71429 2.37394,-0.18261 4.76892,0.18261 7.14286,0 1.50141,-0.11549 2.80911,-1.13325 4.28571,-1.42857 0.10109,-0.0202 3.54165,0.0298 3.57143,0 0.16836,-0.16836 -0.16836,-0.54593 0,-0.71429 0.16836,-0.16836 0.47619,0 0.71429,0 1.90476,0 3.80952,0 5.71428,0"
+       id="path4061"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="779.28571"
+       y="803.79077"
+       id="text4063"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4065"
+         x="779.28571"
+         y="803.79077"> only shown if open registration</tspan></text>
   </g>
 </svg>
